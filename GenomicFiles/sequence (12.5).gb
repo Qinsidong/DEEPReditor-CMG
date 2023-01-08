@@ -1,0 +1,117 @@
+LOCUS       AJ295996                1706 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Triticum aestivum mitochondrial partial rps19 pseudogene nad4L
+            gene.
+ACCESSION   AJ295996
+VERSION     AJ295996.1
+KEYWORDS    nad4L gene; NADH dehydrogenase subunit 4L; pseudogene; rps19 gene.
+SOURCE      mitochondrion Triticum aestivum (bread wheat)
+  ORGANISM  Triticum aestivum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; BOP
+            clade; Pooideae; Triticodae; Triticeae; Triticinae; Triticum.
+REFERENCE   1
+  AUTHORS   Subramanian,S., Fallahi,M. and Bonen,L.
+  TITLE     Truncated and dispersed pseudogenes for L2 and S19 ribosomal
+            proteins in wheat mitochondria
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1706)
+  AUTHORS   Bonen,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-SEP-2000) Bonen L., Biology, University of Ottawa, 30
+            Marie Curie, Ottawa, K1N 6N5, CANADA
+FEATURES             Location/Qualifiers
+     source          1..1706
+                     /organism="Triticum aestivum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /cultivar="Fredrick"
+                     /db_xref="taxon:4565"
+     gene            <99..296
+                     /gene="rps19"
+                     /pseudo
+     CDS             <99..296
+                     /gene="rps19"
+                     /note="S19 ribosomal protein"
+                     /pseudo
+                     /codon_start=1
+                     /db_xref="PSEUDO:CAC79219.1"
+     gene            1195..1497
+                     /gene="nad4L"
+     CDS             1195..1497
+                     /gene="nad4L"
+                     /exception="RNA editing"
+                     /note="Protein sequence is in conflict with the conceptual
+                     translation"
+                     /codon_start=1
+                     /product="NADH dehydrogenase subunit 4L"
+                     /protein_id="CAC79220.1"
+                     /db_xref="GOA:Q94R80"
+                     /db_xref="InterPro:IPR001133"
+                     /db_xref="UniProtKB/TrEMBL:Q94R80"
+                     /translation="TDPIKYFTFSMIISILGIRGILLNRRNILIMSMPIESMLLAVNL
+                     NFLVFSVSLDDMMGQSFASLVPTVAAAESAIGLAIFVITFRVRGTIAVESINCIQG"
+     misc_feature    1196
+                     /gene="nad4L"
+                     /note="C to U RNA editing"
+     misc_feature    1202
+                     /gene="nad4L"
+                     /note="C to U RNA editing"
+     misc_feature    1235
+                     /gene="nad4L"
+                     /note="C to U RNA editing"
+     misc_feature    1249
+                     /gene="nad4L"
+                     /note="C to U RNA editing"
+     misc_feature    1289
+                     /gene="nad4L"
+                     /note="C to U RNA editing"
+     misc_feature    1294
+                     /gene="nad4L"
+                     /note="C to U RNA editing"
+     misc_feature    1304
+                     /gene="nad4L"
+                     /note="C to U RNA editing"
+     misc_feature    1373
+                     /gene="nad4L"
+                     /note="C to U RNA editing"
+     misc_feature    1382
+                     /gene="nad4L"
+                     /note="C to U RNA editing"
+     misc_feature    1391
+                     /gene="nad4L"
+                     /note="C to U RNA editing"
+     misc_feature    1475
+                     /gene="nad4L"
+                     /note="C to U RNA editing"
+ORIGIN      
+        1 aagcttgttt caattgaacg aggatgtgaa cgagaaggca acaaaaggga gcttggagca
+       61 agaggagtca tttagtagtt cacgaaaaaa ggcatagtag agaaagtctg aggagcagga
+      121 aaatttggtc acgtagatct tctatttcgc cggaattcgt tgattgctcc gtactcattt
+      181 acaatggaaa aactcctgtt cgttgtaaga tcactgaagg tcataaattt ggagagtttg
+      241 cttttacacg gagacgaaga ccctatcgaa caaatagagg aaaggggaaa aagtaaagtc
+      301 taagcgacat atggatcaat aaggaaatcc aatttcggta atccgaatcc catataggtc
+      361 ttttcttcat actcgaccag ccctaggttg gggataatga atttttcgaa tcttgttggg
+      421 agatgcttcg ctccgagtcc gactgggacg gaatggggga cccaggccct tcaatgcctc
+      481 cctccggatc cactaactcg gaagagctat tcaaagcttt tctggctgac tgtgaggacg
+      541 cctctgcatc ccgggagcag accgctcccc cggaagctgt ggtcagtcaa gagcggcatc
+      601 cgaatcccgc tccaatgcct ggagtggcag cggaagcaga acagaaccct ccttcttttg
+      661 attgggaggg acgacctctc tctctttgag aggaaagttc tctacaaaag gcccgcgcct
+      721 gtcacgccca gattctggac acattgcgtg atattactct gaagaacgga gaggagctcc
+      781 gtgaagaaga ctatcgcacc atgcttgatt tcatgttgag ccgactccag tccgacgtca
+      841 atccccgggc gctgaaggag ctcctgaaca gactccaaaa cggtcgggca cgatctcaaa
+      901 cttctagggc ggcaaggaga ttcctcgacg aggactagtg aggctatagt acttactatg
+      961 cataggacta caaaggtgaa aagacaggat gtattccgac gaaatgcctt ggatgtgatg
+     1021 tgatcggcaa gagaaagatg gaatttggta taaggaagga aatcaaacgc gttgtttgag
+     1081 aaggaaaaag ggtaactaga gaaaaaatca aaataggctc tccctggact ctacgcagga
+     1141 cttctttcta agcctcacat aatttgaatt tctctgacat tccatgtttc cgaaacggat
+     1201 cctataaaat atttcacttt ttctatgatc atctctattt taggtattcg gggaatcctc
+     1261 cttaatagac gaaatattct tattatgtca atgccaattg aatcaatgtt attagctgtc
+     1321 aatttgaact ttttggtatt ttccgtttct ttggatgata tgatgggtca atcatttgct
+     1381 tcattagttc caacagtggc agctgcggaa tctgctattg gattagccat tttcgttatt
+     1441 acttttcgag tccgagggac tattgctgtc gaatctataa attgcattca aggttaaaca
+     1501 taactacagg agagttacca aatacaaagt tctgttctcc tttcgttctc ttctttcttt
+     1561 tctttttgcc tgagtcagac atcaaatagc ttcgatttgc attatccgtt ggaatgtatc
+     1621 aaaatcaata tcaaaatcaa taagatgaaa gatgtacaat ccaatttctc gattcaatag
+     1681 aagcccaaag aggtgcatat ggtacc
+//
+

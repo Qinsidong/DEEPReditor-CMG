@@ -1,0 +1,181 @@
+LOCUS       X79609                  3683 bp    DNA     linear   PLN 07-MAR-1997
+DEFINITION  T.aestivum (Capitole) mitochondrial orf240 gene.
+ACCESSION   X79609
+VERSION     X79609.1
+KEYWORDS    ABC transporter; ORF 240; RNA editing.
+SOURCE      Triticum aestivum (bread wheat)
+  ORGANISM  Triticum aestivum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; BOP
+            clade; Pooideae; Triticodae; Triticeae; Triticinae; Triticum.
+REFERENCE   1
+  AUTHORS   Bonnard,G. and Grienenberger,J.M.
+  TITLE     A gene proposed to encode a transmembrane domain of an ABC
+            transporter is expressed in wheat mitochondria
+  JOURNAL   Mol. Gen. Genet. 246 (1), 91-99 (1995)
+   PUBMED   7529870
+REFERENCE   2  (bases 1 to 3683)
+  AUTHORS   Grienenberger,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JUN-1994) J. Grienenberger, Inst. de Biologie
+            Moleculaire des, Plantes du CNRS, 12 rue du General Zimmer, 67084
+            Strasbourg Cedex, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..3683
+                     /organism="Triticum aestivum"
+                     /mol_type="genomic DNA"
+                     /cultivar="Capitole"
+                     /db_xref="taxon:4565"
+                     /tissue_type="etiolated seedlings"
+     CDS             2565..3287
+                     /exception="RNA editing"
+                     /note="orf240"
+                     /codon_start=1
+                     /product="putative heme ABC transporter membrane domain"
+                     /protein_id="CAA56116.1"
+                     /db_xref="GOA:Q41574"
+                     /db_xref="InterPro:IPR002541"
+                     /db_xref="InterPro:IPR003557"
+                     /db_xref="UniProtKB/TrEMBL:Q41574"
+                     /translation="MSVSLLQPYFFMSKTKSYAQILIGSRLFLTAMAIHLSLRVAPPD
+                     LQQGGNSRISYVHVPAARMSIVIYIATAINSSLFPLTKHPLFLRSSGTGTEIGAFSTL
+                     FTLVTGGFRGRPMWGTFRVWDARLTSVFILFLIYLGALRFQKLPVEPAPISIRAGPID
+                     IPIIKSPVNWWNTSHQPGSISRSGTSIHVPMPIPILSNFANFPFSTRILFVLETRLPI
+                     PSFPESPLTEEIEAREGIPLKT"
+     misc_feature    2640
+                     /note="C to U RNA editing"
+     misc_feature    2667
+                     /note="C to U RNA editing"
+     misc_feature    2679
+                     /note="C to U RNA editing"
+     misc_feature    2725
+                     /note="C to U RNA editing"
+     misc_feature    2743
+                     /note="C to U RNA editing"
+     misc_feature    2748
+                     /note="C to U RNA editing"
+     misc_feature    2791
+                     /note="C to U RNA editing"
+     misc_feature    2800
+                     /note="C to U RNA editing"
+     misc_feature    2863
+                     /note="C to U RNA editing"
+     misc_feature    2895
+                     /note="C to U RNA editing"
+     misc_feature    2922
+                     /note="C to U RNA editing"
+     misc_feature    2963
+                     /note="C to U RNA editing"
+     misc_feature    2964
+                     /note="C to U RNA editing"
+     misc_feature    2982
+                     /note="C to U RNA editing"
+     misc_feature    2985
+                     /note="C to U RNA editing"
+     misc_feature    3000
+                     /note="C to U RNA editing"
+     misc_feature    3010
+                     /note="C to U RNA editing"
+     misc_feature    3015
+                     /note="C to U RNA editing"
+     misc_feature    3022
+                     /note="C to U RNA editing"
+     misc_feature    3027
+                     /note="C to U RNA editing"
+     misc_feature    3031
+                     /note="C to U RNA editing"
+     misc_feature    3037
+                     /note="C to U RNA editing"
+     misc_feature    3061
+                     /note="C to U RNA editing"
+     misc_feature    3063
+                     /note="C to U RNA editing"
+     misc_feature    3085
+                     /note="C to U RNA editing"
+     misc_feature    3112
+                     /note="C to U RNA editing"
+     misc_feature    3132
+                     /note="C to U RNA editing"
+     misc_feature    3139
+                     /note="C to U RNA editing"
+     misc_feature    3172
+                     /note="C to U RNA editing"
+     misc_feature    3178
+                     /note="C to U RNA editing"
+     misc_feature    3183
+                     /note="C to U RNA editing"
+     misc_feature    3188
+                     /note="C to U RNA editing"
+     misc_feature    3214
+                     /note="C to U RNA editing"
+     misc_feature    3220
+                     /note="C to U RNA editing"
+     misc_feature    3229
+                     /note="C to U RNA editing"
+     misc_feature    3237
+                     /note="C to U RNA editing"
+ORIGIN      
+        1 gtcgacatct actaaggctt cagcttaagt gggttcagcc gccccaaatc tgactcgatc
+       61 cagggttata tatcataaag ggcttcgaca aggggtttga ttcgttcttt gagcaaaaag
+      121 ataaggtcgg aataccggag ttctttcttt gcttccaaga acatagattc cttcttcaac
+      181 ccaggtcatg accgagggcg ggtatctcac tcgcatatct agagcccagc atctctcctg
+      241 aacgacacct tctgcagact ctactggtgg tatttcccga ggcgagggtc aatatgtgca
+      301 ttcatatcgg tcaggaaacg acaatgactc ttcttctttc cgggaagcta tgggcacctc
+      361 acaattctta tacgacatta gtggaagcga acattcgtag cattcattgt caccgatcat
+      421 tgacaaaaga agaaaaagaa gccgtacgac aacttaagga atctttagat ttggcggcta
+      481 tagactcaaa gggcacagac aggctgctgg tacttttttt ttagctaact aaagtccaac
+      541 ttcctttgcc gaaagaggat gaaacggatc agccgattca acttagcatt acccgactcg
+      601 taacttcaag cacaaccatc catctcaatc caaaatctcc gatcgtctgt gatccaaacc
+      661 caaactctcc tccggttttg gatatataga cagtgcctgc tctcaaacca accaagacag
+      721 cagcaagttc ctatcgagaa caagacgaca gatcaatatg accaatttct ataatatctc
+      781 gggtgaatac gtgaaaaagt gttgcttagc tcagtgaaat ggaataagga agagaaagtg
+      841 tagtgtgata agggaagatg caagtcaatt ttgaggtttt caagcaaggg ctgagataga
+      901 tatacaaacc agaagaattc acatcagaac cctttcctgc ttcccctttt tacccatcgg
+      961 actcgactca cattttgatc tcctacgctt gctttcacag tccccctacg agcagcccgg
+     1021 aatcaatgaa ggagttcatt cagcaccgag ccgagcgagc gtagattcaa tatgttgatt
+     1081 gtaccgaacg aaggatttgc cttatcacga aagccacatt cgtttcgttt gaggaagtca
+     1141 cacgtcctgt tccctataaa taaggagatt cattcttttt tttcagaaat cccctcttct
+     1201 tcctcctcaa gcccctatca caagaccaag cggatctcat cctgcagaag actcagagcg
+     1261 gatctatcta atggcatggc tggctgtcgg atgtgatcta tctcgtgtca catcgcttct
+     1321 ttcttctccc tccattttct tcactactac cgcttctaca cataaatcaa agaagcattg
+     1381 tggaatagtg gcatttcgtt aatggctaaa atgttcttag tgaaagggtt gccgcaaaac
+     1441 cggcaaactc agagcggtct ctgaaagtga ataggagcat agcggcatca tccaagccaa
+     1501 acacgtctcc tcagtcaagg gtcttctcgc gcaaataaga tcaaaaacat aacaactgat
+     1561 ttcgcttaat gcatgtcacc cgcccgctct caatacagca agtgactctc tctcacaaga
+     1621 cagagaaaga ttaccgattc atccaatcca atttgatcag aagtgagttc attgttgttg
+     1681 tatagcgaaa cctttccttg acaaaaccat tctcagctaa tagaagccga gctatctatc
+     1741 cagatcaggg ttgaacgaag cgaatggaaa agccaaagaa aacttaaatc cattgcgatt
+     1801 agaaaccagt gactctacag ccagggctcg atggcgatgt aagatagaaa gaatggggag
+     1861 ttagggcttc ggtttcctct gtagccagtt tcaattccaa atcatttgcc gacatgcgga
+     1921 ctcacttctc ttttatggga tgacttttat tatccaagtt gtctatttac gtgggtgaat
+     1981 caagtacaac aagtcaggtc agagcttgtg gtagaagatt gggcttcgct acgcagatcc
+     2041 actcaactag gaaagaagta cgcattgctg actgactgtt tgaacgatcc tagttactag
+     2101 tagctaatca agtcagagta gggtggccga gaagcttctt gccggtgccc ccaaaagcaa
+     2161 agcacagact ctactcaccc acgcgttttc cacctacgga gggagaaatc atcgaaatat
+     2221 cctcatcccc tgaaagggaa cccgaaaaca ggacgagagt ggatagggtg actaaggagg
+     2281 ccgtaaaaat tagtagtgca tttttgaaag ataagattac aaaaaggcga gagcagcata
+     2341 attgttagtt aggggtaaga ggggacgggc ccgtatagaa agtcaatcct tctttttccg
+     2401 atatgccgct ccgcaagcaa ggagtgccac gcacgagcgg agcgaaaact aagcaagggg
+     2461 aattccgtca ttccatggaa agcatgcgaa atcctttgat tgtttataga atcaaaataa
+     2521 ctatatagtc tttcttgttc cacttgcaag gcaaggaaaa taaaatgtca gtttcgttat
+     2581 tacaacctta tttttttatg tcaaagacaa aaagctacgc gcaaattctc attggatctc
+     2641 ggttgttctt aacagcgatg gctattcatt taagtcttcg ggtagcacca ccagatcttc
+     2701 aacaaggtgg aaattctcgt atttcgtatg tacatgttcc tgcggctcgg atgagtatag
+     2761 ttatttatat cgcgacagct ataaacagtt ccttgttccc attaacaaaa catccccttt
+     2821 ttcttcgctc ttccggaacc ggtacagaaa ttggtgcttt ttctactttg tttacgttag
+     2881 tgactggggg gtttcgggga aggcctatgt ggggtacctt tcgggtgtgg gatgctcgtt
+     2941 taacttctgt attcatcttg ttccttattt acctgggtgc actgcgtttt caaaagcttc
+     3001 ctgtcgaacc ggctcctatt tcaatccgtg ctggaccgat cgatatacca ataataaagt
+     3061 ctccagtcaa ctggtggaat acatcgcatc aacctgggag cattagccga tctggtacat
+     3121 caatacatgt tcctatgccc attccaatct tgtctaactt tgctaacttc cccttctcta
+     3181 cccgtatctt gttcgttctg gaaacacgtc ttcctattcc atcttttccc gaatctccct
+     3241 taacggaaga aatagaagct cgagaaggaa taccactaaa aacctagttc gctctcaaat
+     3301 aaaaacctag ttcactcgct aaagcatcca tggctgaatg gtgaaagcgc ccaccaacct
+     3361 agaaaggcaa aatgggtcaa aaagtaggtt cgattcctgc cggatgcact gcctcttaaa
+     3421 gacagaaaca gaggagggaa agaaggtagt atagggaact tgcttttgga ttcttatcga
+     3481 aagtgaatcc ctctaacact tctgttagtg ttttatgaga aaatctttta tagacacaac
+     3541 aagtgtgaaa atccttagtc actaggcaag aaagctcgat gggaacaaaa aggatacaat
+     3601 tagttcataa tcaaaaaaat gtacaatttc aaaggaaaga aggaatggca agtttccctc
+     3661 cattgaacat caatcaatct aga
+//
+

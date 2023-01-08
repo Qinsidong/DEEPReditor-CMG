@@ -1,0 +1,122 @@
+LOCUS       X57965                  3159 bp    DNA     linear   PLN 22-JUL-2016
+DEFINITION  Triticum aestivum mitochondrial matR gene & nad1 gene, exon 5.
+ACCESSION   X57965
+VERSION     X57965.1
+KEYWORDS    matR gene; nad1 gene; nad1-e exon; NADH dehydrogenase subunit 1;
+            RNA editing.
+SOURCE      mitochondrion Triticum aestivum (bread wheat)
+  ORGANISM  Triticum aestivum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; BOP
+            clade; Pooideae; Triticodae; Triticeae; Triticinae; Triticum.
+REFERENCE   1  (bases 1 to 3120)
+  AUTHORS   Chapdelaine,Y. and Bonen,L.
+  TITLE     The wheat mitochondrial gene for subunit I of the NADH
+            dehydrogenase complex: a trans-splicing model for this
+            gene-in-pieces
+  JOURNAL   Cell 65 (3), 465-472 (1991)
+   PUBMED   1902143
+REFERENCE   2  (bases 1 to 3159)
+  AUTHORS   Bonen,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-1991) L. Bonen, Dept. of Biology, University of
+            Ottawa, 30 George Glinski, Ottawa, Ontario K1N 6N5, CANADA
+FEATURES             Location/Qualifiers
+     source          1..3159
+                     /organism="Triticum aestivum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /cultivar="Thatcher"
+                     /db_xref="taxon:4565"
+     gene            <218..2254
+                     /gene="matR"
+     CDS             <218..2254
+                     /gene="matR"
+                     /note="initiation unknown"
+                     /codon_start=1
+                     /protein_id="CAA41033.1"
+                     /db_xref="GOA:Q03979"
+                     /db_xref="InterPro:IPR000477"
+                     /db_xref="InterPro:IPR002866"
+                     /db_xref="UniProtKB/TrEMBL:Q03979"
+                     /translation="RKKEGSKFRPLTVVLPIEKIMKEAIRMVPESIYDPEFPDTSHFR
+                     SGRGCHSALRRIKEEWGTSRWFLEFDIRKCFHTIDRHRFISILKEEIDDSKFFYPTQK
+                     KFSAGRLVGGEKGPDSIPNSVLLSALPGNIYLHKLDQEIGRIRQKHEIPLVVKIRSVL
+                     LRIGRRIDDQEKYGKEASFNAPQDNRALIVGRVKSIQRKATFHSLVSSWHTPPTSTPR
+                     RRGDQKTPFVFPPSAALAAFLNKPSSLLCAAFLIEAAGLTPKAEFNGREGFNKNLAMR
+                     DLLKYCKRRGLLIELGGEAILVIRSERGLARKLAPFKSHSLLIRICYARYADDLLLGI
+                     VGAVFLLIEIQKRITHFLQSGLNLWVGSAGSTTIAARSTVEFPGTVIREVPPRTTPIQ
+                     FLRELEKRLRVKHRIHITACHLRSAIHSKFRDLGYSIPIKELTKGMSGRGRLLDAVQL
+                     AETLGKDGLKSPQVSVLWGTVKHIRQRSRGISLLHSSGQSKVPSGVQQAVSRSGMSVL
+                     KKKLYTPFGRKAAGEGRGHWAGSFSSEFPIQIEAPIKKILRRLRDRGLISRRRPRPIH
+                     VASLTNVSDRDIVNWSAGIAISPLSYYRCCDNLYQVRTIVNYQIRWSAIFTLAHKHKS
+                     SARNIILKYPKDSNIVNQEGGKTLAEFPNSIELGKLGLGQDPNNDGALNYMFNK"
+     gene            2772..>3030
+                     /gene="nad1"
+     exon            2772..>3030
+                     /gene="nad1"
+                     /number=5
+     misc_feature    2772..3030
+                     /gene="nad1"
+     misc_feature    2786
+                     /gene="nad1"
+                     /note="C to U RNA editing"
+     misc_feature    2795
+                     /gene="nad1"
+                     /note="C to U RNA editing"
+ORIGIN      
+        1 cccgggtcca aacctgctga gctagctaat ttttccttta cgagatctcg gctcttcgga
+       61 atgattggag agagccccgc ctcctcttgg ttggtgccgg gcccgagagt gatgggacta
+      121 cttccttaaa gagcctttcg ttcgggccgg caggaggggc cctgatctat caattgaggg
+      181 agcaaaaaac aggctttgct cccccttttt taaatgaaga aagaaagaag ggtcgaagtt
+      241 tagaccgctc acagtagttc tacccataga aaagatcatg aaagaggcga tcagaatggt
+      301 acccgaatcc atttacgatc ccgagtttcc agacacatcg cacttccgct cgggtcgagg
+      361 ctgccactcg gccctcagac ggatcaaaga agagtgggga acctctcgct ggtttttgga
+      421 attcgacatc aggaagtgtt ttcacaccat cgaccgacat cgattcatct caatcttgaa
+      481 ggaagagatc gacgattcca agttctttta ccccactcag aaaaagtttt ccgccggacg
+      541 actcgtaggg ggtgagaagg gccctgactc catcccaaac agtgtactac tatcggccct
+      601 accaggcaat atctacctac acaagctcga tcaggagata gggaggatcc ggcagaagca
+      661 cgaaattcct cttgtagtga aaataagatc ggttctatta agaataggtc gtcgtattga
+      721 tgaccaagaa aagtatggaa aagaagcaag cttcaacgct ccccaagaca acagagccct
+      781 catagtgggg agggtaaaga gcatccaacg caaagcgacc tttcattccc ttgtttcgtc
+      841 gtggcacacc ccccccacaa gcacccccag gcgaagggga gaccagaaaa cgcctttcgt
+      901 tttcccccct tcagcggccc tagccgcctt ccttaacaag ccctcgagcc tcctttgcgc
+      961 cgccttcctc atagaagccg ctgggttgac cccgaaggcc gaattcaatg gtagagaagg
+     1021 ctttaataag aatttggcca tgagagacct tcttaagtat tgcaaaagaa ggggcctgct
+     1081 gatagagctg ggcggggagg cgatactagt tatcaggtca gagagaggcc tggcccgtaa
+     1141 gctggccccc tttaaaagcc attccttatt aataaggatt tgttacgcgc gatatgccga
+     1201 cgacttacta ctgggaatcg tgggtgccgt atttcttctc atagaaatac aaaaacgtat
+     1261 cacccacttc ctacaatccg gtctgaacct ttgggtaggc tccgcaggat caacaaccat
+     1321 agctgcacgg agtacggtag aattccccgg tacggtcatt cgggaagtcc ccccgaggac
+     1381 gactcccata caattcttgc gagagctgga gaagcgtcta cgggtaaagc accgtatcca
+     1441 tataactgcc tgccacctac gctccgccat ccattccaag tttagggacc taggttatag
+     1501 tatccctatc aaagagctta cgaaggggat gagcggaaga ggtcgtctac tggacgcggt
+     1561 tcaactagcg gagactcttg gaaaagatgg actaaaaagt ccccaagtta gcgtattatg
+     1621 ggggaccgtc aagcacatcc ggcaaagatc gagggggatc tcgttgttgc atagctcagg
+     1681 tcagagcaag gtgccatcag gcgttcaaca ggcagtctca cgatcgggca tgagtgtcct
+     1741 gaagaagaaa ttgtatactc cctttggtcg gaaggcggcg ggggaaggaa ggggacactg
+     1801 ggcgggatct ttcagcagcg aattccccat acagatagag gcgcctatca aaaagatact
+     1861 ccgaaggctt cgggatcgag gtctcattag ccgaagaaga cccaggccaa tccacgtggc
+     1921 ctctttgacc aacgtcagcg acagagacat agtaaattgg tccgcgggca tcgcgataag
+     1981 tcctctgtcc tactacaggt gctgcgacaa cctttaccaa gtccgaacga ttgtcaacta
+     2041 ccagatccgc tggtccgcta tattcaccct agcccacaag cacaaatctt cggcgcggaa
+     2101 tataatccta aagtacccca aagactcaaa tatagtcaat caagaaggtg gtaagaccct
+     2161 tgctgagttc ccaaacagca tagagcttgg gaagctcgga ctcggtcaag atccgaacaa
+     2221 cgacggagca ctcaactaca tgtttaataa gtagttgtct ttttctattt ggattttagc
+     2281 gaacaggcgt ttacatgaga ttagttgagt aggcttgctt atctgctata agatagctag
+     2341 ttgtggggct ttcgaaaaaa aaaaggctga aggcttcgct atcgctcatg gcttgtattg
+     2401 tagtcgtagt cttgtagtcg gccctccatg cctctttagt ctttctaatc ctgaggcctt
+     2461 tttccttcat tcattttgcg gtagttacgc gtcagaaaaa tagaaccttt ccggcccgga
+     2521 agatcgctgc ttcgcttctg gcgactagct tctacccaca atggctaaag ctaccttgaa
+     2581 tcaatcaatg aatgaatgat tcgtaacccc catgggttcg aggacccgtt ggtcaaagga
+     2641 aaaggggggt ccagattcca ggacggagcc gtatgaggcg agagtctcac gtacggttcc
+     2701 tttgagaagg gtgtgatacc accacctatc aggcccgacg agcggtccac ggagctgcat
+     2761 ccctactcac ccggtctatg cacatcgctc tttccaggag gttggctgcc tatcctagat
+     2821 cttcccattt ccaaaaagat cccttgttcg atctggttta gtatcaaggt tcttcttttt
+     2881 ctgtttctat atatatgggt ccgtgcagca tttccacgat atcgttatga tcaattaatg
+     2941 ggacttggcc ggaaagtgtt cttgcctcta tcattagctc gggtagtccc cgtttcaggt
+     3001 gtttcagtca cctttcgatg gctcccttaa tgtatgtgcc aggaagtttc ttctgaaggg
+     3061 ggctactccc cgaaaatgcc ccgccccttg ttcgtttgtc gttggggatt cattgctcgt
+     3121 tctgcggtta taagtaacgt agccagccta atttctaga
+//
+

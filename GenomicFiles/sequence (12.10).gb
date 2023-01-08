@@ -1,0 +1,235 @@
+LOCUS       AF082025                3450 bp    DNA     linear   PLN 25-JUL-2016
+DEFINITION  Triticum aestivum ABC transporter CcbB (ccbB) gene, mitochondrial
+            gene encoding mitochondrial protein, complete cds.
+ACCESSION   AF082025
+VERSION     AF082025.1
+KEYWORDS    .
+SOURCE      mitochondrion Triticum aestivum (bread wheat)
+  ORGANISM  Triticum aestivum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; BOP
+            clade; Pooideae; Triticodae; Triticeae; Triticinae; Triticum.
+REFERENCE   1  (bases 1 to 3450)
+  AUTHORS   Faivre-Nitschke,S.E., Nazoa,P., Gualberto,J.M., Grienenberger,J.M.
+            and Bonnard,G.
+  TITLE     Wheat mitochondria ccmB encodes the membrane domain of a putative
+            ABC transporter involved in cytochrome c biogenesis
+  JOURNAL   Biochim. Biophys. Acta 1519 (3), 199-208 (2001)
+   PUBMED   11418186
+REFERENCE   2  (bases 1 to 3450)
+  AUTHORS   Faivre-Nitschke,S.E., Gualberto,J.M., Grienenberger,J.M. and
+            Bonnard,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-AUG-1998) Institut de Biologie Moleculaire des
+            Plantes, CNRS, 12 rue du General Zimmer, Strasbourg 67084, France
+FEATURES             Location/Qualifiers
+     source          1..3450
+                     /organism="Triticum aestivum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /cultivar="Capitole"
+                     /db_xref="taxon:4565"
+     gene            1778..2398
+                     /gene="ccbB"
+     CDS             1778..2398
+                     /gene="ccbB"
+                     /exception="RNA editing"
+                     /note="transmembrane subunit; located in the mitochondrial
+                     inner membrane; part of a putative heme ABC transporter
+                     involved in c-type cytochrome biogenesis; similar to
+                     CcmB/HelB/CycW bacterial proteins; similar to Marchantia
+                     polymorpha orf277; similar to Arabidopsis thaliana ccb206"
+                     /codon_start=1
+                     /product="ABC transporter CcbB"
+                     /protein_id="AAC64369.1"
+                     /translation="MRRLFLEQFYKQIFSSTPITSFFLFLLYIVVTPLMIGFEKDFLC
+                     HFHLGLIWISLLFSFLSEPFFRNDKESGTLELYYLSAYCLPKILLLQLVGHWVIQISC
+                     VFCAFPMLQLLYQFDRSGMDWLNILLGSLVLTLLCGIHSCLALGITSSSGWNSLQNLT
+                     TLPTLLPLTVFCTSIETEGFHVLLLIGYFFLFVSLYPILVSISLQD"
+     misc_feature    1805
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1816
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1820
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1857
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1864
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1905
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1914
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1926
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1931
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1937
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1949
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1956
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1958
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1960
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1970
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    1971
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2063
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2081
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2115
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2144
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2156
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2168
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2169
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2183
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2201
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2205
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2218
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2244
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2252
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2253
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2262
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2279
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2280
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2289
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2291
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2328
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2331
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2343
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2346
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2349
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2373
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+     misc_feature    2388
+                     /gene="ccbB"
+                     /note="C to U RNA editing"
+ORIGIN      
+        1 ctgcagccct aaagctctgt cccctatcct accactagat ctcctatgcc ggaacatgaa
+       61 cagagaaagc tgtgagtgta gtcttaggaa cgaaccgggg gttgctctcg caaaaagatt
+      121 gtactaaaga aagctagaaa gctcaattcc aagctttaaa cctctggtcc acgggtcggt
+      181 gaacgaatgg gttttgggaa atagagaaca tggactcgat tgaacaaagg tggcaccgga
+      241 atgaatagcc cacttgtttc gggcaagaat gaatgggact gatcgactcg agttaccgag
+      301 cgacctccac tcttcgactc gagctttcgc ttctgctttt ctcttgtttt gatttattag
+      361 ctttttaggg aaagaagagg gtctgaaata caactatgtc tacgagtgcc gcgaatgaac
+      421 cttcggttct tcccaagaac aaggagacac gaactaaata actcgtatca ggctacggga
+      481 atagtgaacg ggaagaagga actagtgagg ctttcgttgg tcaaacaata tgccctcctc
+      541 acttgaggag agtgaaggtc atgacttatt gaagcagaac gtcaattggc caagagaagg
+      601 ggaactcctt tcgtcggtaa ctattgaatt gcctatctaa cagtggagcg aagcggaacg
+      661 ttgaacggga aactcgtgtc gtcggttatc caatttccct cctttctgtt tcgacaaaga
+      721 aaacgtttag gtatcggtaa taggattccc actatgattt gcagaaaaag atagattcaa
+      781 taataatcca taaaaaatat atagaatcag gctccgtaat caagtgctcg ctgtgagaag
+      841 aagatctaca ggcatgtacc catttctccc tgcaaaataa gtttgaaccc gagtgagtat
+      901 ggaccatacg ctcatctttc ttctcaatca acacctcgtt ccgcgagaga cctatcctcg
+      961 tttcgaaata aaggaccgta gtgaggatcg atcccggata agcgagtcag tgtagggaca
+     1021 gaggctgatg attctaaagg tgatttctaa ctacaagatg actttatttg aaaacggaat
+     1081 ccaaatatca acaaaaagat gaatggaaag tcttgtcgat atgaattgat cttcaaccca
+     1141 atgacaatgc ttcgatttcg atcttgactt ctttcttgga tgcctgaagt ttgtgttcgc
+     1201 atttcatcaa aggaaaagtg ggctgtaccc acatgaagaa aagagttgct cgtgtaaaag
+     1261 caatatcttc tatttgactt atctagccgt gtcttgtctt gcacatactc ggctcggtga
+     1321 atggttcatc ttcgattggc atggtccttt ggatgtaaga gatctcgttt gctggccggg
+     1381 cccttccatg agtttagatc tctatgtatg aatctcttat gaaatcccat actttttatc
+     1441 atttcagaac gatcagcata ctgtgtgact tctgcgtgac agttcttgca tttcgtttgt
+     1501 tgctttgcat gaacatttag atattggaaa gcgaactccc tgaattagga atttcataga
+     1561 tagagaagga cgggcaaaaa gagagagact gactaactac ccggatcaat gctgattgac
+     1621 gactgaataa atagccggaa gcaacaactg cacgagagag aaagagcgga tccaactaag
+     1681 gaaatgcagt acctgttctg tcggagctaa tcatgcaaag ctagcgtagc gccagccgtc
+     1741 gaagtgaatg aattcgaaag aacgcagaag taaggaaatg agacgactct ttcttgaaca
+     1801 atttcataag cagatcttcc cctccacacc aatcacgagt ttttttttat tcctctcgta
+     1861 tatcgtcgtc acgcccttaa tgataggttt tgaaaaagat ttttcatgtc attcccattt
+     1921 aggttcgatt cggatccctc tgttgtttcc ctttcctccc gaaccttttc ctcgaaatga
+     1981 taaagaatct ggtacactcg aattgtatta tttaagtgct tattgcttgc caaaaatcct
+     2041 acttctacaa ttggtaggtc accgggttat tcaaataagt cgtgttttct gtgcttttcc
+     2101 catgttacaa cttccgtacc aattcgatcg atccggaatg gatcggttaa acattctatt
+     2161 agggagcccg gtcttgactc ttctgtgtgg tattcattct cgttcggctc ttggaatcac
+     2221 atccagcagt ggttggaaca gctcgcaaaa tccaaccact tcacctactt tattgccccc
+     2281 aaccgtttcc cgtacctcta tagaaacaga agggtttcat gttctttcat cgattgggta
+     2341 ttcctctcct tttgtatctc tttatccaat ttcggtctcg attagttcac aagattgaat
+     2401 ggccaagtca tggaaaagcc gttattcgat tgttttaaaa gaatgttgag ccgggcccgg
+     2461 gtatgtaagt tcagcgatgt acaaacaagg atttatttta cttccgcacc taggttgggg
+     2521 ggttctattt aggaagaata aggaagagga atagaatctc attcatgtgt tcatgctaac
+     2581 agaagagcgg atccaataca cataaggcat cggttgttct taacagcgat ggctactagg
+     2641 atctccccct tatcctagca gatcggtacc cagaccatat ccttgggcag ctcggatgta
+     2701 tctatctttt cgttcagatc acatcatctc gagcgcggaa tcttattagt ggatcagaag
+     2761 actatggtga cccgtagatc ttcagatgtt gatttgcaga gcagggccgg aatgcgggga
+     2821 ttgcattctt cgaaaagtat catatcttct ttccctaggg agaaagcaga aaccagaaac
+     2881 gagtggaggt tcgatctctc acccaaagca attggggctg gtggaatctt cccctataga
+     2941 ctccgnaaaa tcatcgtgta cctttcccta aatccttctc ccgtgcatgc tattctcgtg
+     3001 ttccgtgatt agaaaagacc tgtttcttgt tttctttgag gtaataaacg agctgtatcc
+     3061 cgctttgcct atcttgatgt ggaatctatc gttgagcacc catgaatgca ggtagaaggt
+     3121 gttttttctt aactctttcc aggcctcagc ttgattggac ttcgtcagct cttgtcgttc
+     3181 agcttcctct ctcctctctc atcttgtctc tccgtagacg gcgttaaaaa gtaaacagac
+     3241 ttaaagcaaa gtaggttcga tccttgtgtt ctattatatg aagtagaaga agaaagagcc
+     3301 ggggggatgg tcttggcacc catgggttaa tggtgaaagc gctcaaggaa atagggaatg
+     3361 gaatattcaa atcgatcaga agtgctatgc tttatgtaat caggctgaag gctaacatct
+     3421 cgcgagtagg ccgagctagg ataagaattc
+//
+

@@ -1,0 +1,126 @@
+LOCUS       AJ535507                1460 bp    DNA     linear   PLN 24-JUL-2016
+DEFINITION  Triticum aestivum mitochondrial rpl5 gene for ribosomal protein L5
+            and rps14 gene for ribosomal protein S14.
+ACCESSION   AJ535507
+VERSION     AJ535507.1
+KEYWORDS    ribosomal protein L5; ribosomal protein S14; rpl5 gene; rps14 gene.
+SOURCE      mitochondrion Triticum aestivum (bread wheat)
+  ORGANISM  Triticum aestivum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; BOP
+            clade; Pooideae; Triticodae; Triticeae; Triticinae; Triticum.
+REFERENCE   1
+  AUTHORS   Sandoval,P., Leon,G., Gomez,I., Carmona,R., Figueroa,P.,
+            Holuigue,L., Araya,A. and Jordana,X.
+  TITLE     Transfer of RPS14 and RPL5 from the mitochondrion to the nucleus in
+            grasses
+  JOURNAL   Gene 324, 139-147 (2004)
+   PUBMED   14693379
+REFERENCE   2  (bases 1 to 1460)
+  AUTHORS   Jordana,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-DEC-2002) Jordana X., Fac Ciencias Biologicas, P.
+            Universidad Catolica de Chile, PO Box 114-D, Santiago, Region
+            Metropolitana, CHILE
+FEATURES             Location/Qualifiers
+     source          1..1460
+                     /organism="Triticum aestivum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /cultivar="Fortal"
+                     /db_xref="taxon:4565"
+                     /clone="pWB6.6"
+                     /tissue_type="embryo"
+                     /dev_stage="imbibed embryos"
+     gene            261..830
+                     /gene="rpl5"
+     CDS             261..830
+                     /gene="rpl5"
+                     /function="involved in 5S rRNA attachment into the large
+                     ribosomal subunit"
+                     /exception="RNA editing"
+                     /note="Protein sequence is in conflict with the conceptual
+                     translation"
+                     /codon_start=1
+                     /product="ribosomal protein L5"
+                     /protein_id="CAD59558.1"
+                     /db_xref="GOA:Q85RU3"
+                     /db_xref="InterPro:IPR002132"
+                     /db_xref="InterPro:IPR022803"
+                     /db_xref="UniProtKB/TrEMBL:Q85RU3"
+                     /translation="MMFPLHFHYEDVLRQDLLLKLNYANVMEVPGLFEIRLVLKAASD
+                     FRIQFGKLAMEILCGQRFIQTQRGPYFQAGKSFRSNPFLGSEKDTGYVSDFARQSVLR
+                     GHGMYHFLVRIFTVMSMLDSPVEIRENSIKFFMETEFCEFSPELEDHFEIFEHIRGFN
+                     VTIVTSANTKDETLLLWSGFLLKDEGETK"
+     misc_feature    327
+                     /gene="rpl5"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="C to U RNA editing"
+     misc_feature    376
+                     /gene="rpl5"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="C to U RNA editing"
+     gene            832..1129
+                     /gene="rps14"
+                     /pseudo
+     CDS             832..1129
+                     /gene="rps14"
+                     /pseudo
+                     /codon_start=1
+                     /product="ribosomal protein S14"
+     misc_feature    914..915
+                     /gene="rps14"
+                     /note="4 nucleotide deletion that disrupts the RPS14
+                     coding sequence"
+                     /pseudo
+     misc_feature    922..923
+                     /gene="rps14"
+                     /note="4 nucleotide deletion that disrupts the RPS14
+                     coding sequence"
+                     /pseudo
+     misc_feature    925
+                     /gene="rps14"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="C to U RNA editing"
+                     /pseudo
+     misc_feature    929
+                     /gene="rps14"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="C to U RNA editing"
+                     /pseudo
+     misc_feature    1174
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="C to U RNA editing"
+ORIGIN      
+        1 ttaagcttgt taatggaatt ccacaggagt caagcgctag caaagaagaa ttggaaatca
+       61 gtcgcttccc ttctggactc aagtcagcag aagagtgaac ttcatattaa taggtaaatc
+      121 ctacatcaag cgtaaaggaa gtacactttt tttgattcgg cgcttaataa ctcgtacttg
+      181 acgttggttt cggttcgatc aactatcctt tttgaagcgg atagttcaca gtgctcattc
+      241 tcaaaaaaag cggaaaagcc atgatgtttc cactccattt tcattacgaa gatgtattac
+      301 gtcaggatct gttgctcaaa ctgaatcacg ccaatgttat ggaagttcct ggattgtttg
+      361 aaataagatt agtaccaaaa gctgcctctg atttcagaat ccaatttgga aaattggcta
+      421 tggagatttt gtgcggtcag agattcatac agacacaaag gggcccctat tttcaagcag
+      481 gaaagtcgtt tcgatccaat ccattcttgg ggtccgaaaa agacactgga tatgtcagtg
+      541 actttgcacg acaaagcgtt ctccgagggc atggaatgta ccattttttg gtcagaatct
+      601 ttacagtaat gtctatgttg gattctccgg tcgaaatacg ggaaaactcc atcaaattct
+      661 ttatggaaac ggagttttgc gaattctccc cggaactgga agatcatttc gagatcttcg
+      721 agcatattcg agggttcaat gtgactattg tcacttcggc caatacaaaa gatgagactt
+      781 tactactgtg gagcggcttt ttgctaaaag atgaggggga aactaagtaa gatgccggag
+      841 aagcgacgaa atatacgaga tcacaaacgt agattgctcg cggctaaata tgaattgaga
+      901 cgaaagcttt ctaattttgt aacccgatct tccgtctgat atgcgggaca aacatcgtta
+      961 taagttgtcc aagttgccaa gaaagagttc aatggcacga gtaagaaacc gaggtatttt
+     1021 cacgggtcgc cctcgttccg cagttgagtt ctttcgcatt tatcgtatcg tttttcgtgg
+     1081 attagcatct cgaggttctt tgatgggcat aaagaaatcg tcttggtagc aaccaccaaa
+     1141 ccaatagaac aaaggttagc tctgcagcta gtccacaagc aagggttgta ggtccattac
+     1201 cgtccggctc ccgaccgaaa ctaacggagt catcccaact ctcggatcgg agatgctaac
+     1261 gggacaggaa tcgaagtggg ggacctctct accgcacctg tctccccaga catagactac
+     1321 gtaaagggta gtactcttgg aaagagagaa gatcaccgcg tgaacaaaat ccaaagtaac
+     1381 gaatgtcact cccgagggat cgaccactat catacatgaa attttgcata gaatgattgt
+     1441 tcatgttcac gccggagtgc
+//
+

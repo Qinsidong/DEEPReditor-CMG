@@ -1,0 +1,306 @@
+LOCUS       X75036                  6791 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  T.aestivum mitochondrial nad7 gene for NADH dehydrogenase subunit
+            7.
+ACCESSION   X75036
+VERSION     X75036.1
+KEYWORDS    nad7 gene; NADH dehydrogenase subunit 7.
+SOURCE      mitochondrion Triticum aestivum (bread wheat)
+  ORGANISM  Triticum aestivum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; BOP
+            clade; Pooideae; Triticodae; Triticeae; Triticinae; Triticum.
+REFERENCE   1
+  AUTHORS   Bonen,L., Williams,K., Bird,S. and Wood,C.
+  TITLE     The NADH dehydrogenase subunit 7 gene is interrupted by four group
+            II introns in the wheat mitochondrial genome
+  JOURNAL   Mol. Gen. Genet. 244 (1), 81-89 (1994)
+   PUBMED   8041365
+REFERENCE   2  (bases 1 to 6791)
+  AUTHORS   Carrillo,C. and Bonen,L.
+  TITLE     RNA editing status of nad7 intron domains in wheat mitochondria
+  JOURNAL   Nucleic Acids Res. 25 (2), 403-409 (1997)
+   PUBMED   9016571
+REFERENCE   3
+  AUTHORS   Bonen,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-SEP-1993) L. Bonen, University of Ottawa, Dept of
+            Biology, 30 George Glinski, Ottawa, Ontario, K1N 6N5, CANADA
+  REMARK    revised by [3] MAT
+REFERENCE   4  (bases 1 to 6791)
+  AUTHORS   Bonen,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-1994) L. Bonen, University of Ottawa, Dept of
+            Biology, 30 George Glinski, Ottawa, Ontario, K1N 6N5, CANADA
+FEATURES             Location/Qualifiers
+     source          1..6791
+                     /organism="Triticum aestivum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /cultivar="Fredrick"
+                     /db_xref="taxon:4565"
+     gene            <607..>6611
+                     /gene="nad7"
+     mRNA            join(<607..749,1563..1631,2943..3409,4407..4650,
+                     6350..>6611)
+                     /gene="nad7"
+     CDS             join(607..749,1563..1631,2943..3409,4407..4650,6350..6611)
+                     /gene="nad7"
+                     /exception="RNA editing"
+                     /note="subunit 7"
+                     /codon_start=1
+                     /product="NADH dehydrogenase"
+                     /protein_id="CAA52952.1"
+                     /db_xref="GOA:Q36813"
+                     /db_xref="InterPro:IPR001135"
+                     /db_xref="InterPro:IPR010219"
+                     /db_xref="InterPro:IPR014029"
+                     /db_xref="InterPro:IPR022885"
+                     /db_xref="UniProtKB/TrEMBL:Q36813"
+                     /translation="MTTRNGQIKNFTSNSGPQHPAAHGVSRSVLEMNGEVVERAEPHI
+                     GSLHRGTEKLIEYKTYLQALPYFDRLDYVSTMAQEHAHSSAVERLLNCEVPLRAQYIR
+                     VLFCEITRISNHSLASTTHAMDVGASTPFLWAFEEREKLLEFYERVPGARMHASFIRP
+                     GGVAQDLPLGLCRDIDSSTQQFASRIDELEEMSTGNRIWKQRLVDIGTVTAQQAKDWG
+                     FSGVMLRGPGVCWDSRRAAPYDVHDQSDLDVPVGTRGDRYDRYCIRIEEMRQSVRIIV
+                     QCPNQMPSGMIKADDRKLCPPSRSRMKLSMESSIHHFELYTEGFSVPAPSTYTAVEAP
+                     KGEFGVFLVSNGSNRPYRCKIRAPGFAHSQGLDSMSKHHMPADVVTIIGTQDIVFGEV
+                     DR"
+     exon            <607..749
+                     /gene="nad7"
+                     /number=1
+     misc_feature    644
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    650
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    651
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    683
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    689
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    705
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    743
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     intron          750..1562
+                     /gene="nad7"
+                     /number=1
+     exon            1563..1631
+                     /gene="nad7"
+                     /number=2
+     intron          1632..2942
+                     /gene="nad7"
+                     /number=2
+     exon            2943..3409
+                     /gene="nad7"
+                     /number=3
+     misc_feature    2954
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    2974
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    2981
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    2985
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    3065
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    3074
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    3083
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    3113
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    3175
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    3261
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    3263
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    3264
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    3308
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    3409
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     intron          3410..4406
+                     /gene="nad7"
+                     /number=3
+     exon            4407..4650
+                     /gene="nad7"
+                     /number=4
+     misc_feature    4425
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    4451
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    4461
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    4466
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    4496
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    4563
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     intron          4651..6349
+                     /gene="nad7"
+                     /number=4
+     exon            6350..>6611
+                     /gene="nad7"
+                     /number=5
+     misc_feature    6352
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    6399
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    6514
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    6529
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+     misc_feature    6550
+                     /gene="nad7"
+                     /note="C to U RNA editing"
+ORIGIN      
+        1 agatctttag ctacttgtat caatttgccg cagtgtgctt agatacaatg ggctggcagc
+       61 tgaggcttgg caggatgggg gagttaatta aggtcgaggg agcaggaaag agtttgttat
+      121 tcgctattgg cttagtacgg cctatacata atagggccat gacggttttg gcaaggcctt
+      181 gaacttcata tatccctttt ttactcaatc cagaataccg agaaagtcag attgaatcat
+      241 tttgtcgacc tttcctttgg atttattatc ataggtagtg ttcgagatcg cctctgtgcg
+      301 gtgaacgctc gaatgtagct aacatcagtt ttgtcctcgc gtggttgaag gagatgctgc
+      361 tgctggatgg aatgcttccg gggcgccatg atccttctat caggaataga ataatcgagg
+      421 gcactgactg actgcatcaa tcatcgctca gtgagctatt aattgccgcc aatagcgctt
+      481 cgcttgcatg caaggcggct aataaaagcg ccaggtagac gcgcggagat gcattttgag
+      541 tactggtggt actggacaag ctctagggga ataatctctt tcttatttct ttcttatttc
+      601 tttcccatga cgactaggaa cgggcaaatc aagaatttca cttcgaattc cggacctcaa
+      661 catcctgctg ctcatggtgt ttcacgatca gtattggaaa tgaacggaga agtggtggaa
+      721 cgtgcggaac cacatattgg atcactccag tgcggcacga agccgctgac gctgagtagg
+      781 ctcctatgcc gctagcacgg tggaggttcc gtagcgcgtc atgagcaccg ggcaaaggga
+      841 cggttgagca actcaagcga accgccctac ctgactttgg ataaagatag aagggagaag
+      901 gttgtgaagg tggcctcgtt atccacacat ctggtcggag gaccgacctg ggttttcacg
+      961 agcgtaggcg ggtcctggag tgcccgtcaa gggcgctagc gcataccccg gggtgatcat
+     1021 caccacctgc acctcacatc tcggcacagt ggaacgtgta acccgcctgc tgtccaagtc
+     1081 aaccactgaa tttcctgtaa ttcatagcgc ctaacagaac gtagcagcaa gggacaaccc
+     1141 acccatacag acagcctgcg gggaggatgg cactactggc aaagaccgtc tggcgaaaac
+     1201 gccgcaggcg cgaagcgtgg tgggcctgcg ccgggggagc atagggagga aagggagccc
+     1261 ggacggtgga agagccaggg gaagccgggt catttgacgg aaatggaagg tccgagcggc
+     1321 tcattcattc tggaaaaaag agggggggag cgagccaatg tatcaatgaa tagatacagt
+     1381 caacggtatt aagacagcgc tgcctacacg cgaatttgct tccgaggtcg agcagtctca
+     1441 atttcactac aggattttag aatgaatgct gggctgggcc acctcaaatg gcgtgagccg
+     1501 catgcgggga gacccgcacg tacggttttc agggggatcc ggccggccgg cgcccacccg
+     1561 actagaggga ctgagaaatt aatcgagtac aaaacttatc ttcaagcttt accttatttt
+     1621 gatcgtttag agggcgatcg cggagtcact gaatgaagtc ctccctccct ttctttcgga
+     1681 ggtgctgacc cgctgcgagg cagatatgac taagtgacat attgaatatg gcgacgacta
+     1741 cagcatgtcg tagaaggaga taagaggtgg agccaacgac ccactaagac tcacgtatct
+     1801 acaactacat tcccgagcgg cagtcaaacg gaggcgtgaa tgcaagatgc cagcggaatg
+     1861 atcgaccgga cagaggctag ggcagctttc ttcccaccgc gtccttcctt gtgtgtcgga
+     1921 gatacaaagc gagtgcaccg gaaaagaagg ggaactgaat cgatctattc catggcgaag
+     1981 catccgaagc ataactgcac actcacacga tctttgccga gagataggag cattcggtgg
+     2041 aaccggtgaa ctacacttgc ttcttgatag atgtgtggga cagagggctc gtggtacctg
+     2101 ctgcccgccc ttcctccgct ttgataaccg tgtgaacgga gagtgggcag agcaaaaggg
+     2161 aaggaggtcc tcatacggag tcgcacactt gagcagtgcg ggagactgga gaatgggtcg
+     2221 agtaaactcc cttagggccg attaaatcac agacgaggaa cttttctttc tttttttctt
+     2281 tttgatttga agggtatgtt ctcaaaaaag aaaggcagag gtaaatactt cgaagaggcg
+     2341 gctcggtagg gatggaatgg tcaatagtca agtcaaggat gacttctttg ttggcgaaac
+     2401 gatgggggag agaaagcacg ccagtgattc tctgagccgg tcttcatttc caacgcctcg
+     2461 ggaaacaggt cgagatagat gacagcacct ttttatcctc ttccttaccg ggaaggcgca
+     2521 cttctcttct tcttctggcc ttcacctcct gcccggcccg gaaatagaac ccagccccct
+     2581 ttctgatcca ttcatttctg caagcaggcg ggatccagag ctaagccccc ctcctattcg
+     2641 aagccgggtg tggcctcgcc cttttgctct tccttcggtt tggctccacg aaggcgccgc
+     2701 tagactagga gccccactca tattcaaaag gcgcccagct ttcaagacga tgataataat
+     2761 tagtcaactt tttccaatat catggaatag catggcccgg ggctaaggta actccagtgg
+     2821 gagagccgtg ttatgggtga ccttattgca cggttcagag agcacttgtg tatgtgatgc
+     2881 aagtgaacgt gtacgaaaaa gctgtcgtaa agtttcgttg ttcgttccgt cgttgaccct
+     2941 atctatgttt ctacgatggc ccaagaacac gctcattctt cagccgtaga gagacttttg
+     3001 aattgtgagg taccattacg agctcaatat ataagagtgt tattctgtga aataactcga
+     3061 atttcaaatc attcacttgc ttcaactact catgctatgg atgtgggagc atcaactccg
+     3121 ttcctttggg cttttgagga gcgggagaaa ttgttggaat tctatgaaag agtcccggga
+     3181 gccaggatgc atgccagttt catacgacct ggtggagtgg cacaagatct gcctcttggc
+     3241 ttatgtcgag atattgattc ctccacacaa caatttgctt ctcgtatcga cgaattagaa
+     3301 gagatgtcaa ccggcaaccg tatctggaaa caacgattag tggatattgg tactgtcact
+     3361 gcacagcaag caaaggattg gggattcagt ggtgtaatgt taagaggtcg tgcgacatga
+     3421 agacattgat agcaatatgg gggaagttcc catcaggcaa caacggttct gcctgaccct
+     3481 acaaaagcat gcatatgttg tcagtgaaga ttttgtgtga agccttggag acgacgtacc
+     3541 cggggctagg gtgagctgag gggggacagc gtaagtgagc gaatgtgtgt aagcccagtc
+     3601 aaagattcct attctaggcg gggcgggcca tcaaccttcg aatggtgttg gtcctacgga
+     3661 ccgtgaacgg attcgcctct ggcctctggg cacgtcggaa ccgcatgagt tcaccggggt
+     3721 ggagcacggt ccgccaaaat cggcataggt taggtgctat tgatggaaca tggtaagccc
+     3781 atctttctcc atatgaaagt gctgcgggca catagagatg tgggtagagg aagtctcaaa
+     3841 aagcgaaggc cgagctgtag gtcacgtgac ctgcaccgaa aaggtggctg actgggcttt
+     3901 ctcctggatc aaagcggatc agctcgccaa attcgtcgat cgaatcgggc gcccggaacg
+     3961 tcgaatgaaa gtggtctttc tacaacccta tttatatgat ttttagggcc cctttccccc
+     4021 tatccctccc ttatgtttag gagcgggatc tgcccaagaa cgacctgtgg tggtacggaa
+     4081 ggcacggact ccgcaagcgt cccgcaccct ctgagaaaga aactcctcaa ccatcacaag
+     4141 ataaagaagt atgacgctct gtgtctgact ctattggtca tagttccttg ctgttgcggc
+     4201 cggtgctcgt ttgcgcgcgt gtgaaccacc agatcataag gaaagatgcc tctcggggca
+     4261 tctgagaatg attcgagccg tatgaaggga aactcccacg tacagtttgt tttggggggg
+     4321 aaggagcccg acagggtccc cccactgact tggcccgggc ctaagtgaaa gtgcaaaagt
+     4381 gaagtggtgg gcctacccat cccaacctgg ggtatgctgg gattcgcgaa gagcagcacc
+     4441 ttacgatgtt catgaccaat cggatcttga cgtaccagta ggtaccagag gagatcgcta
+     4501 tgatcgttac tgtatccgta ttgaagagat gcgacaaagt gttcggatca ttgtgcaatg
+     4561 tcctaatcaa atgcctagtg gcatgatcaa agccgatgat cgtaagctat gtcctccatc
+     4621 acgatctcga atgaaactat ccatggaatc gtgcgccgtg tgaaacgtag atcatcgccg
+     4681 ttcttaaccg agactcaggt taagctccgt ctcggaaccg ccgtggggtt aggagtaaag
+     4741 catcccgagg ttggcgcatc tcgttgggcg tggagaagca ttgggaaccc caatatcttt
+     4801 cttcggagca gtttcttttc ccgtcccctc gccccggcat agcgcttcgc ttccggttct
+     4861 tcggaggaat caactgactt ctcccttctt cattgatccg ggggaaaggg aaccgtctac
+     4921 cagttgggaa gctagacatc aaggttgtgg cttgatgagg ataactaagc tgacacgccg
+     4981 gagttggctg ctggcacaac agggtggtgc cttaccgcac cgcaggcgca cgcgcggtag
+     5041 cgttcgtggt ggtgcttcag gattccaatg tactgcgtcc aggatcagaa cgagcttgcc
+     5101 ggcggaccac tgccgtccca ttctttagtg agctggagcg ctgccatctt atccacggaa
+     5161 aacgcgtcaa gctatcgctt cgggtcgaag cactaaaaga aaaggaccgg gaaacgcggc
+     5221 ggcataggaa ccacgggaac ccaggaggga gaaagacgat gtacgggata cgggatcctc
+     5281 gcagtaggct ggaccaaaat ccagccgaga gagggcagcc tttagaagca acaggttggg
+     5341 aaaccaagag aaggcttcgc cttttcttat cttcttcccg gcacaaaaag agggattagc
+     5401 attattgacc ccatgagaaa gcactaacac cttcctcatc ggggctccgc gcactgggaa
+     5461 aaggcttccg cgacaggaaa ccggctacta gttaggaagt gaacataagg tatcaagagg
+     5521 tccctcacag tcaggtgcaa tgcaattgcc ccctattagt caagtacccc tcttcctatt
+     5581 tagtttaggg gttaaggcga gaaatggctt gatgaaccct tccgttcacc acgcaccggc
+     5641 cccattcact tgcaactcgt agaggctgta agtaaacagt gccccactaa attcaaagtg
+     5701 acggtggggt tgaaagacga gagtgcctac ctccgcgccg agagtgcccg ccctttctgt
+     5761 caagtaggct actttttccg gaacgcagtc cggaataagc gttcctgtgt atatagatat
+     5821 cttcgatgct gtcatttcga catgtccgct tcaacccctc tttcgcctcc caaaaagcaa
+     5881 agttggcttg acgagcgcag atgaggaagc gggagcaata aaaccaagaa tctctttctt
+     5941 ttctttccaa atactttatg aagttaaggg gcaaagagaa gcgctttcgc tactgagaaa
+     6001 gcgaatggtc agcgcgaggg ttcgacgact tagccgagcg ttagcgacgc gtcattctca
+     6061 tagcgaggcg cttcgagtta gcgaagcgct gtagtagcgt cggagactat gtgctataat
+     6121 gctgaactaa ggacgttccg ccttatctat agaagcagtc gactgagttc tgaacgaatg
+     6181 ggatccttgg tgggtaatgg ctcaatctat agatggaaag ccttatgatg ggaaactacc
+     6241 acgttaggtt tggagagaga tgggacccgt tatagtttag ggggagcaga tgcaagcttt
+     6301 ttctttccat agccggccaa atgactaccg gatcatcggt ctactctacc tcaattcacc
+     6361 atttcgaact ttatacagaa ggtttttccg taccagctcc ttctacctat accgcagttg
+     6421 aagcacctaa aggtgaattt ggtgtctttc ttgtcagtaa tgggagtaat cgtccctacc
+     6481 gttgtaaaat aagagcacct ggctttgccc attcacaagg actcgattct atgtccaaac
+     6541 atcacatgcc agcagatgta gtcaccatca taggtactca agatattgtg tttggagagg
+     6601 tagatagata ggacgtagtc ttgctcgatc aggaccctag ctttattgcg agccaaaact
+     6661 gcctgaaaga agcaaaatgg aaaaggatgc aaaatgcaat gggattcctg atccaataag
+     6721 aaatcccaat tcggagtttg tttggatcaa attcctatgt tatactattc cattctcgat
+     6781 gatgaatcga t
+//
+

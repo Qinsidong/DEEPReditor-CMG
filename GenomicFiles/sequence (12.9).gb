@@ -1,0 +1,238 @@
+LOCUS       X69205                  2745 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  T.aestivum mitochondrial rps1A gene and orf589.
+ACCESSION   X69205
+VERSION     X69205.1
+KEYWORDS    cytochrome C1 biogenesis; ribosomal protein; rps1A gene.
+SOURCE      mitochondrion Triticum aestivum (bread wheat)
+  ORGANISM  Triticum aestivum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; BOP
+            clade; Pooideae; Triticodae; Triticeae; Triticinae; Triticum.
+REFERENCE   1  (bases 1 to 2745)
+  AUTHORS   Gonzalez,D.H., Bonnard,G. and Grienenberger,J.M.
+  TITLE     A gene involved in the biogenesis of c-type cytochromes is
+            co-transcribed with a ribosomal protein gene in wheat mitochondria
+            [corrected]
+  JOURNAL   Curr. Genet. 24 (3), 248-255 (1993)
+   PUBMED   8221934
+  REMARK    Erratum:[Curr Genet 1993 Dec;24(6):551]
+REFERENCE   2  (bases 1 to 2745)
+  AUTHORS   Grienenberger,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-1992) J. Grienenberger, Institut de Biologie
+            Moleculaire des, Plantes du CNRS, 12 rue du General Zimmer, 67084
+            Strasbourg Cedex, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..2745
+                     /organism="Triticum aestivum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /cultivar="Capitole"
+                     /db_xref="taxon:4565"
+                     /tissue_type="etiolated seedling"
+     gene            85..1854
+                     /gene="ORF589"
+     CDS             85..1854
+                     /gene="ORF589"
+                     /codon_start=1
+                     /protein_id="CAA49143.1"
+                     /db_xref="GOA:Q35984"
+                     /db_xref="InterPro:IPR002541"
+                     /db_xref="InterPro:IPR003567"
+                     /db_xref="InterPro:IPR003569"
+                     /db_xref="UniProtKB/TrEMBL:Q35984"
+                     /translation="MMGITKHKFGNEHEMSINEFSHYSLFPGLFVAFTYNKKQPPAFG
+                     AALAFWCILLPFLGLSFRHIPNNLSNYNVLTANAPFFYQISGTWSNHEGSILSWCWIP
+                     SFYGFLFCYRGRPQSHNVSKRRGYRETLIFSFVSNFVKNSILSLQQKSWAAPQLYTPF
+                     VRRTLVDSELRSQSKRPFNGPALFNAPLDPVLKMSFALLGAGRSRGSREGKRTNLLLH
+                     LARDEKERASSIDEQQIDGALGIALFFSPFLSASSDPFVRNFFVRTEPLAESNPVPQD
+                     PISAIHPPCIYAGDVASAMGFGLCRSKMMNGIVALHSPPMRKDAAEKNGTLLRSAGCV
+                     GSHIRSSLFTRSFKHFVGGAPALLLRSNRSLLMQLRRRFFAFSSLWTGALMDTGREQA
+                     KRVVRNGKKDTTTSPLCWTAGANTVVSDQDQEPIRIWILTCRLFLTVGISPGSWWAHH
+                     ELGRGGWWFRDPVENASFMPRVLATARIHSVILPLLHSWTSLLNILTLPCCVLGTFSI
+                     RSGLLAPVHSSATDDTRGRFLWRFFLLITGISMTLFYQMKQEASVRRTYKKEMVVARS
+                     TLVHLRHSARAQPRPVMLCYGRI"
+     misc_feature    164
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    247
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    263
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    268
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    277
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    374
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    389
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    390
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    482
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    491
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    498
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    595
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    824
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    833
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    871
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    893
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    905
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    920
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1069
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1384
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1412
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1429
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1444
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1462
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1495
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1513
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1556
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1576
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1579
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1580
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1627
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1640
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1641
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    1675
+                     /gene="ORF589"
+                     /note="C to U RNA editing"
+     misc_feature    2015
+                     /note="C to U RNA editing"
+     misc_feature    2063
+                     /note="C to U RNA editing"
+     gene            2100..2624
+                     /gene="RPS1A"
+     CDS             2100..2624
+                     /gene="RPS1A"
+                     /codon_start=1
+                     /product="ribosomal protein"
+                     /protein_id="CAA49144.1"
+                     /db_xref="GOA:Q35985"
+                     /db_xref="UniProtKB/TrEMBL:Q35985"
+                     /translation="MFLVDAGPGTPKICMQDELTGLPIKRATRFENKVGSKNVVAGES
+                     LIKKRIFERFFIDLVAGESLIKERAAARFNDFVGSLDVAAGEPLLLPQRFRQNRAWIE
+                     LKKIWRTKKKVKGFIIKKIKGGYSVAIAGFTTFLPFKKALLKKRIANDRFTIDSINPK
+                     RRDIVIIAADQTRT"
+     misc_feature    2122
+                     /gene="RPS1A"
+                     /note="C to U RNA editing"
+     misc_feature    2206
+                     /gene="RPS1A"
+                     /note="C to U RNA editing"
+     repeat_region   2215..2240
+                     /gene="RPS1A"
+     repeat_region   2272..2297
+                     /gene="RPS1A"
+     misc_feature    2476
+                     /gene="RPS1A"
+                     /note="C to U RNA editing"
+     misc_feature    2610
+                     /gene="RPS1A"
+                     /note="C to U RNA editing"
+ORIGIN      
+        1 ttttctcttc cttgccgctg agactgagac atatcaaaaa gatctattac taaaaggaga
+       61 ttgggatcat cctgtggtta ccggatgatg ggaataacta agcataaatt tggaaatgag
+      121 cacgaaatgt ctataaatga attttctcat tattcgttat ttccgggtct tttcgttgca
+      181 ttcacttaca acaagaaaca accaccagcg tttggtgcag cacttgcatt ttggtgcatt
+      241 cttcttcctt tccttggtct ttcgttccgt catattccaa ataacttatc taattacaac
+      301 gtattaaccg ctaatgcacc ttttttttat caaatctcag ggacatggtc taatcatgag
+      361 ggtagtattt tatcatggtg ttggatcccc agtttttatg gattcctttt ttgttaccgg
+      421 ggtcgacccc aaagccataa tgtctcaaaa cgaagaggct atagagaaac tttgattttt
+      481 tcctttgtct cgaacttcgt gaagaactcc attctatctc tccaacaaaa aagttgggct
+      541 gcgccccagt tgtacactcc cttcgttcgg agaacccttg ttgattctga acttcgttcg
+      601 caaagtaagc gtccttttaa cgggccagcc ctttttaatg cgccgcttga ccctgttttg
+      661 aaaatgagct ttgctcttct gggcgctggg cgctcccgtg gttcgcgaga aggaaaaagg
+      721 actaatcttt tgttacatct ggcacgagat gaaaaagaga gagcttcgtc tatcgatgaa
+      781 cagcagattg acggagctct tggcattgct ttgtttttct ctcctttcct atcagcgagt
+      841 tccgatcctt ttgttcgaaa tttcttcgtt cgtaccgaac cgcttgcaga atcaaatcca
+      901 gttccacaag atcctatatc agctatacat cctccttgca tttatgccgg agatgtcgcc
+      961 agtgctatgg gctttgggtt atgtagatca aaaatgatga atgggattgt ggcactccac
+     1021 tcgccgccaa tgcggaagga tgccgccgaa aagaatggaa cgctgcttcg ctctgctgga
+     1081 tgcgtcggat cccatataag aagctcgctc tttacccgat cattcaaaca ttttgtgggc
+     1141 ggcgcgcctg ctctattgtt gcgtagcaat agaagcctgc tcatgcagct tcggcggcgc
+     1201 tttttcgcct tctcttcgct ctggacagga gcgctaatgg acacggggag ggagcaggcg
+     1261 aagcgtgtcg ttcgtaatgg aaagaaagac accactactt cgcctctttg ttggaccgcc
+     1321 ggcgcgaaca cggtggtctc tgaccaggac caggaaccaa ttcgaatttg gatcttgaca
+     1381 tgtcggttgt ttttaaccgt aggcatctcg ccaggaagtt ggtgggctca tcatgaatta
+     1441 ggtcggggtg gctggtggtt tcgggatccc gtagaaaatg cgtcttttat gcctcgggta
+     1501 ttagccacag ctcgtattca ttcagtaatt ctaccccttc ttcattcttg gacctcgctt
+     1561 ctgaatattt tgactcttcc atgctgtgtc ttaggaacct tttcaatacg gtccggattg
+     1621 ctagctcccg ttcatagttc cgctacagac gatacacgag gaagattttt atggcggttc
+     1681 ttccttctaa ttacaggcat atctatgact cttttttacc agatgaagca ggaggcatcg
+     1741 gtccgtagaa cctataaaaa agagatggtt gtggcgcgaa gtactcttgt gcacctacgt
+     1801 cactcggctc gcgcgcaacc ccgccccgtt atgttatgtt atggaagaat ttagcttctt
+     1861 gctgggctgg ttattcagag ccagcaactg gctgccggat ttcgtcccgt ccgtagcgct
+     1921 tcggaagtca ctctggcgtg gcgctgctgg atacttctga tcaataggaa taggaggaaa
+     1981 aaaaagctta tgatgagcat ctattggagt cgatcatttc caagatctaa ttctagtttc
+     2041 ttattatgta gtggaaacgc ctcacaatct tcagttttac gttacgctta agggaagaaa
+     2101 tgttcttggt ggatgcaggc cctggtaccc ccaaaatttg tatgcaagat gagcttacag
+     2161 gactgccaat caagcgagcc accaggtttg agaataaggt gggatccaag aatgtagtgg
+     2221 ctggtgaatc actgatcaaa aagcggattt ttgagagatt cttcatcgat ctagtggccg
+     2281 gtgaatcact gatcaaagag cgagcagccg ccaggtttaa tgattttgtg ggatccctgg
+     2341 atgtagcggc tggcgaaccg cttcttcttc cacaaagatt cagacaaaac cgagcttgga
+     2401 tagaactgaa gaagatttgg cgaacgaaga aaaaggtcaa agggtttatt ataaaaaaaa
+     2461 tcaaaggagg ttattcagta gccatcgcgg gtttcactac ttttcttcca ttcaaaaaag
+     2521 ctcttctaaa aaaaaggata gcgaatgatc gattcaccat tgatagcatt aaccctaaaa
+     2581 ggagggatat tgtgataata gcggcagatc aaacaagaac ttgatgaaaa gatagaaaaa
+     2641 aattatgaaa aatccgaagc ccaccttaat ccattttgtt gaggatcttg cacttattcc
+     2701 ggccctatat ttacatagcc aagaaaggct ctggcgatca tgcgt
+//
+

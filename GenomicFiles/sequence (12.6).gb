@@ -1,0 +1,113 @@
+LOCUS       X69720                   935 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  T.aestivum mitochondrial nad9 gene for 30 kDa subunit of complex I
+            NADH dehydrogenase.
+ACCESSION   X69720
+VERSION     X69720.1
+KEYWORDS    complex I; complex I 30 kDa subunit; complex I protein; NADH
+            dehydrogenase; RNA editing.
+SOURCE      mitochondrion Triticum aestivum (bread wheat)
+  ORGANISM  Triticum aestivum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; BOP
+            clade; Pooideae; Triticodae; Triticeae; Triticinae; Triticum.
+REFERENCE   1  (bases 1 to 935)
+  AUTHORS   Lamattina,L., Gonzalez,D., Gualberto,J. and Grienenberger,J.M.
+  TITLE     Higher plant mitochondria encode an homologue of the
+            nuclear-encoded 30-kDa subunit of bovine mitochondrial complex I
+  JOURNAL   Eur. J. Biochem. 217 (3), 831-838 (1993)
+   PUBMED   8223639
+REFERENCE   2  (bases 1 to 935)
+  AUTHORS   Grienenberger,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-DEC-1992) J. Grienenberger, Institut de Biologie
+            Moleculaire des Plantes du CNRS, 12 rue du General Zimmer, 67084
+            Strasbourg Cedex, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..935
+                     /organism="Triticum aestivum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /cultivar="Capitole"
+                     /db_xref="taxon:4565"
+                     /tissue_type="etiolated seedlings"
+     gene            22..885
+                     /gene="nad9"
+     CDS             22..885
+                     /gene="nad9"
+                     /exception="RNA editing"
+                     /codon_start=1
+                     /product="30 kDa subunit of complex I NADH dehydrogenase"
+                     /protein_id="CAA49376.1"
+                     /db_xref="GOA:Q35980"
+                     /db_xref="InterPro:IPR001268"
+                     /db_xref="UniProtKB/TrEMBL:Q35980"
+                     /translation="MLCIILFPERWFSGFGIVTKHPGFYTRFNTRACSRSWIHNSKKC
+                     VCSFGSLLVASLSLLPLHSHAFLGRTNPTGDFRQVFLLRARSGTKIKLSLFSFMDNQS
+                     IFQYSWEILPKKWVHKMKRSEHGNRSYTNTDYPFPLLCFLKWHTYTRVQVSIDICGVD
+                     HPSRKRRFEVVHNLLSTRYNSRIRVQTSADEVTRISPVVSLFPSAGRWEREVWDMSGV
+                     SSINHPDLRRISTDYGFEGHPLRKDFPLSGYVEVRYDDPEKRVVSEPIEMTQEFRYFD
+                     FASPWEQRSDG"
+     misc_feature    196
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+     misc_feature    226
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+     misc_feature    314
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+     misc_feature    327
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+     misc_feature    404
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+     misc_feature    423
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+     misc_feature    425
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+     misc_feature    479
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+     misc_feature    502
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+     misc_feature    535
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+     misc_feature    610
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+     misc_feature    640
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+     misc_feature    668
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+     misc_feature    680
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+     misc_feature    710
+                     /gene="nad9"
+                     /note="C to U RNA editing"
+ORIGIN      
+        1 aaaggatcag aataagtact aatgctctgt ataatacttt tccccgagcg atggtttagc
+       61 ggattcggaa ttgtaaccaa gcatcctggg ttctataccc gattcaacac tagagcatgc
+      121 agccgatcct ggatacataa ctctaaaaag tgtgtgtgca gttttggatc tttattggta
+      181 gccagtcttt cacttctgcc tctccactcc catgcctttc ttggtcggac caacccaacc
+      241 ggcgatttcc gacaagtctt tctgcttaga gcaagaagcg gaaccaaaat aaagctttct
+      301 ttattttcat ttatggataa ccaatccatt ttccaatata gttgggagat tttacccaag
+      361 aaatgggtac ataaaatgaa aagatcggaa catgggaata gatcttatac caatactgac
+      421 tacccatttc cattgttgtg ctttctaaaa tggcatacct atacaagggt tcaagtttcg
+      481 atcgatattt gcggagtgga tcatccctct cgaaaacgaa gatttgaagt tgtccataat
+      541 ttactgagta ctcggtataa ctcacgcatt cgtgtacaaa caagtgcaga cgaagtaaca
+      601 cgaatatctc cggtagtcag tctatttcca tcagccggcc ggtgggagcg agaagtatgg
+      661 gatatgtctg gtgtttcttc catcaatcat ccggatttac gccgtatatc aacagattat
+      721 ggtttcgagg gtcatccatt acgaaaagac tttcctctga gtggatatgt ggaagtacgc
+      781 tatgatgatc cagagaaacg tgtggtttct gaacccattg agatgaccca agaatttcgc
+      841 tatttcgatt ttgctagtcc ttgggaacag cgtagcgacg gataattccg aatctacata
+      901 ggtctagtcc aggggacaaa tcaataggaa atgct
+//
+

@@ -1,0 +1,90 @@
+LOCUS       X57968                  1154 bp    DNA     linear   PLN 22-JUL-2016
+DEFINITION  Triticum aestivum mitochondrial nad1 gene, exon 1 (and joined CDS).
+ACCESSION   X57968
+VERSION     X57968.1
+KEYWORDS    nad1 gene; nad1-a gene segment; NADH dehydrogenase subunit I; RNA
+            editing.
+SOURCE      mitochondrion Triticum aestivum (bread wheat)
+  ORGANISM  Triticum aestivum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; BOP
+            clade; Pooideae; Triticodae; Triticeae; Triticinae; Triticum.
+REFERENCE   1  (bases 1 to 1154)
+  AUTHORS   Chapdelaine,Y. and Bonen,L.
+  TITLE     The wheat mitochondrial gene for subunit I of the NADH
+            dehydrogenase complex: a trans-splicing model for this
+            gene-in-pieces
+  JOURNAL   Cell 65 (3), 465-472 (1991)
+   PUBMED   1902143
+REFERENCE   2  (bases 1 to 1154)
+  AUTHORS   Bonen,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-FEB-1991) L. Bonen, Dept. of Biology, University of
+            Ottawa, 30 George Glinski, Ottawa, Ontario K1N 6N5, CANADA
+FEATURES             Location/Qualifiers
+     source          1..1154
+                     /organism="Triticum aestivum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /cultivar="Thatcher"
+                     /db_xref="taxon:4565"
+     gene            order(<134..519,X57967.1:617..2312,X57966.1:202..260,
+                     X57965.1:2772..3030)
+                     /gene="nad1"
+     CDS             join(134..519,X57967.1:617..698,X57967.1:2121..2312,
+                     X57966.1:202..260,X57965.1:2772..3030)
+                     /gene="nad1"
+                     /exception="RNA editing"
+                     /note="Protein sequence is in conflict with the conceptual
+                     translation"
+                     /codon_start=1
+                     /protein_id="CAA41034.1"
+                     /db_xref="GOA:Q01148"
+                     /db_xref="InterPro:IPR001694"
+                     /db_xref="InterPro:IPR018086"
+                     /db_xref="InterPro:IPR023020"
+                     /db_xref="UniProtKB/Swiss-Prot:Q01148"
+                     /translation="TYIAVPAEILCLILPLLLGVAFLVLAERKVMAFVQRRKGPDVVG
+                     SFGLLQPLADGLKLILKEPISPSSANFSLFRMAPVATFMLSLVAWAVVPFDYGMVLSD
+                     PNIGLLYLFAISSLGVYGIIIAGWSSNSKYAFLGALRSAAQMVPYEVSIGLILITVLI
+                     CVGPCNSSEIVMAQKQIWSGIPLFPVLVMFLIPRLAETNRAPSDLPEAEAELVAGYNV
+                     EYSSMGSALFFLGEYANMILMSGLCTSLFPGGWLPILDLPISKKIPCSIWFSIKVLLF
+                     LFLYIWVRAAFPRYRYDQLMGLGRKVFLPLSLARVVPVSGVSVTFRWLP"
+     exon            <134..519
+                     /gene="nad1"
+                     /number=1
+     misc_feature    135
+                     /gene="nad1"
+                     /note="C to U RNA editing"
+     misc_feature    348
+                     /gene="nad1"
+                     /note="C to U RNA editing"
+     misc_feature    440
+                     /gene="nad1"
+                     /note="C to U RNA editing"
+     misc_feature    441
+                     /gene="nad1"
+                     /note="C to U RNA editing"
+ORIGIN      
+        1 ggatccggag tttttcgata aaaggtccca tccttcaata tcatgattgg gtcaaccagg
+       61 ccagatcata agtgaaatag tttgatcggg tcgaccaggt caggcccgat catgagtgaa
+      121 tagaaaatcg aaaacgtaca tagctgttcc agcggaaata ctttgtttaa ttctaccact
+      181 tctactagga gtagcctttt tagtgctagc tgaacgtaaa gtaatggctt ttgtgcaacg
+      241 tcgaaagggt cctgatgtag tgggatcgtt cggattgtta caacctctag cagatggttt
+      301 gaaattgatt ctaaaagaac ctatttcacc aagtagtgct aatttctccc tttttagaat
+      361 ggctccagtg gctacattta tgttaagtct ggtcgcttgg gccgttgtac cttttgatta
+      421 tggtatggta ttgtcagatc cgaacatagg gctactttat ttgtttgcca tatcttcgct
+      481 aggtgtttat ggaataatta tagcaggttg gtctagtaag acggggggcg gccgttcggt
+      541 cgcctatgat atacggacca attggtcaaa aatgggtttg tgccgcaggt gttgaacgat
+      601 ctactctaca caggtgtggg cttacagggc tagggctcat aaaccctttc tttcattcat
+      661 caaggggtcg gtcacttttc cgggccggga tcgagaagtg gaagtcataa aaaagagatg
+      721 tttctcttcg cacctcatat caagaggaaa ggtagcttgt caagctggtc tcactattgg
+      781 aaattctagc tttctttttt tttttttttt caccggctct tcttctttgt caacgctact
+      841 aaggacctga cggttcgcct acttgatgga tgaaagaaca tgagaaaggg ttctaaaata
+      901 aaaggctaga aagtctacta cagtacagtc aaagtcagcg gctgagtttg cctagcctcg
+      961 cctactcatt tttgtaggcg agcgagttag cgaagaggct tagggataag agagtgtcgg
+     1021 tgcgtacgta gccttcattc tactacgcta cacaaagtca cttagctcga cgttaattaa
+     1081 gagagtaaag gaggaatacc ctacatagaa gaaccacagt tcgcttacaa aggtataacc
+     1141 tttagctccc cggg
+//
+

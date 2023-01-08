@@ -1,0 +1,164 @@
+LOCUS       Y13920                  4207 bp    DNA     linear   PLN 24-JUL-2016
+DEFINITION  Triticum aestivum rps2 gene.
+ACCESSION   Y13920
+VERSION     Y13920.1
+KEYWORDS    ribosomal protein S2; rps2 gene.
+SOURCE      mitochondrion Triticum aestivum (bread wheat)
+  ORGANISM  Triticum aestivum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; Liliopsida; Poales; Poaceae; BOP
+            clade; Pooideae; Triticodae; Triticeae; Triticinae; Triticum.
+REFERENCE   1
+  AUTHORS   Vaitilingom,M., Stupar,M., Grienenberger,J.M. and Gualberto,J.M.
+  TITLE     A gene coding for an RPS2 protein is present in the mitochondrial
+            genome of several cereals, but not in dicotyledons
+  JOURNAL   Mol. Gen. Genet. 258 (5), 530-537 (1998)
+   PUBMED   9669335
+REFERENCE   2  (bases 1 to 4207)
+  AUTHORS   Gualberto,J.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-1997) J.M. Gualberto, Institut de Biologie
+            Moleculaire des Plantes du CNRS, 12 rue du General Zimmer, 67000
+            Strasbourg, FRANCE
+FEATURES             Location/Qualifiers
+     source          1..4207
+                     /organism="Triticum aestivum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /cultivar="Capitole"
+                     /db_xref="taxon:4565"
+                     /clone="H2"
+                     /clone_lib="SalI"
+     regulatory      589..606
+                     /regulatory_class="promoter"
+     mRNA            601..2149
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+     gene            913..2001
+                     /gene="rps2"
+     CDS             913..2001
+                     /gene="rps2"
+                     /exception="RNA editing"
+                     /codon_start=1
+                     /product="ribosomal protein S2"
+                     /protein_id="CAA74226.1"
+                     /db_xref="GOA:O21432"
+                     /db_xref="InterPro:IPR001865"
+                     /db_xref="InterPro:IPR005706"
+                     /db_xref="UniProtKB/TrEMBL:O21432"
+                     /translation="MTMLSIVCTKLLCTNAHLGRRVADHHFKVYIRGSRNGIAILDSD
+                     KTLICLRNALHFIGSPSRQKGRSFFLKTNHLFIYEITEEMASYLRSYLRNVNSHCFDD
+                     SQWKIGAFLTNSFANKKKFRSRKKKINFGLNQQPDCVVILNADRKSSVILEADRSQIP
+                     IPSLVDSTIPWESYKRITYPIPANDPIQFVYLFRHSIMKTVILEQNAISREAQSLRVT
+                     LSTGKSAGGMRSACYSTSSSSPIDEEENRAKALLEMRKKYPSGDGADADANARKAVLQ
+                     AISQNSFFFVELITRFGPIDSESDRGVAGSHLAFAHRIEEILEFHGKSSGSLKDLIDL
+                     KLDLEDASKREEILLPYFFLQKRGKVLA"
+     misc_feature    1090
+                     /gene="rps2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="C to U RNA editing"
+     misc_feature    1112
+                     /gene="rps2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="C to U RNA editing"
+     misc_feature    1166
+                     /gene="rps2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="C to U RNA editing"
+     misc_feature    1397
+                     /gene="rps2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="C to U RNA editing"
+     misc_feature    1468
+                     /gene="rps2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="C to U RNA editing"
+     misc_feature    1492
+                     /gene="rps2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="C to U RNA editing"
+     misc_feature    1499
+                     /gene="rps2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="C to U RNA editing"
+ORIGIN      
+        1 ctgcagcctt taagtatcca aagttctcga acttagatga tgcccttaaa tggtataacg
+       61 aacaccagac tgaaatgttt acttcggacg aaagtttcat tcaatttgct gcgcaagcta
+      121 gtgatccatt ttttttcata gccaagatcc tttctcagga tgaaggagtg agtaattatc
+      181 atcaggttcc agtgaccaag atgcgagtgc gagtgcatat caaattatga gttatctctt
+      241 gcttaactta gaaatgggta ggagaacgaa tcttcttcca tcttaagacg gtcaaatcca
+      301 agatgtgtac atgtgcttgc gggatgagct taataaattg ttttttacca gattgaataa
+      361 tgttacgtag tagtaattag aagaaaaaac tcatagattc tatgttaacc agaaagttcg
+      421 tcaaaggatt gtttatgacc atctccacag gggtccgtcc ggttcttcct caaatgggtt
+      481 gcctcaatct ttatcaaatc tttatcaaag tttggtatct agcttatcca gctacagtat
+      541 agtatactcc ttccttgctc gatagacgtc tttgaatccg cttcaactaa atgcgtaaaa
+      601 tagagtaatt tcttcaaaag ccagtttctt tcgagaaggc aggaggccat agcgagttac
+      661 aatagtgcca gttcttgtac ggaaggccgt aattccggta acctcgactg ctctaagaat
+      721 gatccgggct agccggcaca tcacatcaaa gttaggtcat ttgtcaaaaa catggcaaat
+      781 agctcagttg gtttggtaag ggagctattc tctcacttaa accactccca tattaggtat
+      841 tctatctcgt cttaaagttc ccccgcatta cccataactt accacctgta tctccggaac
+      901 tcaaatcgca aaatgacaat gctttcgata gtctgtacta aattactttg tacgaatgca
+      961 catctcggcc gtcgggtagc tgatcaccat ttcaaagtct atatccgtgg ttcaagaaat
+     1021 ggaattgcta ttctcgattc agacaagaca ctgatttgtt tacgaaacgc tcttcatttt
+     1081 ataggatctc ccagtcgtca aaaaggccgt tccttctttt taaagaccaa tcatttattt
+     1141 atttatgaga taacggaaga aatggcgagc tatttaagaa gctatttaag aaatgtgaat
+     1201 tctcattgtt tcgatgattc tcaatggaag atcggggcgt ttttgaccaa ttcttttgca
+     1261 aataaaaaaa aattccgttc aagaaagaag aagatcaatt ttgggttgaa ccaacaacct
+     1321 gattgtgtgg ttattctgaa tgcagataga aagtcttcgg tcatactgga agctgatcga
+     1381 tcacaaatac ctattccatc cttagttgat tctacgatcc catgggaatc ctataaaaga
+     1441 atcacttatc ccatcccagc gaatgatcct atacagttcg tatatctatt tcgtcattcg
+     1501 atcatgaaaa cagtgattct tgaacagaat gcgattagta gagaagcgca atctctcaga
+     1561 gtcactttga gtacggggaa gtccgcagga gggatgagat ccgcctgcta ctccacctct
+     1621 tcttcttccc caatagacga agaagaaaat agggccaagg cgctattgga gatgcgcaaa
+     1681 aaatatccat cgggagatgg cgctgacgct gacgctaacg ctcgcaaggc ggttttgcag
+     1741 gcaatttcac aaaatagttt ttttttcgtt gagctcataa cccggtttgg gccgattgac
+     1801 tctgagagcg atcgaggggt cgcgggctca caccttgctt ttgcgcatag gatcgaagag
+     1861 atcctagaat ttcatggaaa gagcagcggc tctctgaaag acctcattga tctgaaattg
+     1921 gatttggaag acgcctctaa aagagaggag attctacttc catatttttt cctccaaaaa
+     1981 agaggcaaag tcctagcgtg atacaaaaag aaataatggg caagggcggg gaatgatagg
+     2041 ttcatagatg tggagtaatc agttcttcat ttgaagagtt agttggctgg cctaccggcc
+     2101 cgcagatgta gagaggttgc ccccaccatc ctcttgaact gcgaaatcaa agcgattcct
+     2161 gttgatggaa gaaaggctaa tttcgtttga tccgatccgc ctatgccagt tcgagtctgg
+     2221 cgagtcgcta tcatctgttg ccctaacttt ttctattagc tcatcttgtc cgtagtgata
+     2281 ttttgggaga agggagcaat taccggagtg agaaaggtag aaagaagcaa tcacgaaagc
+     2341 tagtgctagt tgtggctttt tgtactaatc ttgtttgttc ggtagctcgc atcagcagct
+     2401 ttaaaaggaa tagaaaacga ggctttttcc accacaccag gggcgggcat tacgctcaag
+     2461 caggggaagt caatttgact gctgctcgag aacctgtttg aacaagaaga agtagcatgg
+     2521 ctccagcggg gcagagcaat tggctacgac atggtgaccg aaatacaaat tttttccacc
+     2581 actttgcaat tgcaagaaaa aagaggaatc tgatcaagta cttgatgagc gatactggag
+     2641 atcgaataga aggtaatgac ttactcgatg cacatattag gctatttctc tcatctgttt
+     2701 aatacgcaat tctcttcgat aagaagggtt ctcttgtgtt ccagggttga ttaagcgtct
+     2761 ggtggaacag ggatacattg tgtgaggcca aattgcctga cgaattgatg aatatggctc
+     2821 aatatagact ggtccaggta taccggtcag tcttgagcca ccaggatagc cttccacata
+     2881 tcctgttcct cccttgagtg gtaactcttt tctaacctta gaatcctgaa ccaatttgct
+     2941 ccaaagactc tgtcattgaa aggagtccat aggttgataa aataggtttt catgaaaacc
+     3001 acacgtagat agaaaaggta agagttacac gtgccagaag cgaggaatac cgctcggaag
+     3061 cccgattgaa cctgtcctca ttcactgcta tctccatata ttggatgcca agcttgaaag
+     3121 ggtaatggtc cgagaggatg gggccgtagt cttctattac gcacgctacg cagacgatat
+     3181 ggtcttcggc ttaccgagag gggataagtc cacgcgagtc acccagggtc tcaaaaaggt
+     3241 cttagctaga gtccttaggg agctcctaca gggcttcact tctactgaaa tttccagaaa
+     3301 acaaccaggg aggctacaaa ttatcggctt gccctgtctc tgaaaagtga aggtcagctc
+     3361 cacgtgggta ttccatccaa acgatgggag aagaggatga cacttgttcg tattgaaaac
+     3421 cggagacgaa gggaaagagg ttgattggaa catgtctaca agaactcctg tgtagaacac
+     3481 gcccgtatct attctatggg ctggcttcag gccaacccta ctgctgaagt agaaagcatc
+     3541 atattccggt tttccaacac tgatcaggaa ccgggcgcag aaattccttg aagagaaggg
+     3601 gatgcctaca accaatgcct aaataaaggc atatgtcgaa aagtgcaact actaatagat
+     3661 tcagtaaagg aaggcccgga acgggctgag ctactgcccg aaatagaaga ggacgactag
+     3721 agtagaggag cctaattcca atccaaacaa ttgacgaggg agtctaatta tttttccgtt
+     3781 cttgattgtt tcaattgcac tttcttcatt ggagggttgc ttggaaagtg cgatagttac
+     3841 ggcgcttgga gtatacggat tgaattcggt attgaatccg cgaggccagg tgaagaaaag
+     3901 tccaatatgg gtggattacc tttttctgaa ggataagtct ctgggactga ctgaactgaa
+     3961 tgtatagcgt caagataaga agcacggtag tcgaagatgt accttgtggg gtggggtacg
+     4021 agtagaccag accaatgatg aaaagcatag atacgagcat ggcctccctg tctcaaaagc
+     4081 aggccgccaa gggtgctcgc atgaagcatt tctcactcat aaataagtag ttatcacaaa
+     4141 tttagaaaca tgctctgatt tctcttatcg aatttcattc atatttcagt attcgagtgc
+     4201 tggaaag
+//
+
