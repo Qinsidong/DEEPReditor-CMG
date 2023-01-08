@@ -1,6 +1,7 @@
 # DEEPReditor-CMG
 DEEPReditor-CMG: A deep learning-based predictive RNA editor for crop mitochondria Genome. 
-# DEEPReditor-CMG
+
+# ExtractSamples.py
 Notes: ExtractSamples(filenameGB,filenameFasta,numPos,numNeg)
 filenameGB:GenBank file of genome, such as 'sequence.gb'.
 filenameFasta:FASTA file of genome, such as 'sequence.fasta'
