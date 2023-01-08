@@ -5,7 +5,7 @@ DEEPReditor-CMG: A deep learning-based predictive RNA editor for crop mitochondr
 ### 1.1. ExtractSamples.py
 Notes: Extraction of positive and negative samples.<br>
 Data: DEEPReditor-CMG/GenomicFiles <br>
-```
+```python
 ExtractSamples(filenameGB,filenameFasta,numPos,numNeg)
 ```
 filenameGB: GenBank file of genome, such as 'sequence.gb'.<br> 
