@@ -21,10 +21,10 @@ numNeg: Save the file name suffix of the negative sample, such as 'numNeg+negSam
 Notes: Dividing the training sets and test sets.<br>
 Data: DEEPReditor-CMG/Positive&NegativeSamples <br>
 ```python
-TrainTest(Posfile,Negfile,n,random_state)
+TrainTest(posfile,negfile,n,random_state)
 ```
-Posfile: A positive sample file.<br>
-Negfile: A negfile sample file.<br>
+posfile: A positive sample file.<br>
+negfile: A negfile sample file.<br>
 n: Number of the result document.<br>
 random_state: A random number of positive integers.<br>
 
