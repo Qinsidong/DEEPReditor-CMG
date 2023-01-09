@@ -19,3 +19,10 @@ Data: DEEPReditor-CMG/Positive&NegativeSamples <br>
 ```python
 TrainTest(Posfile,Negfile,n,random_state)
 ```
+Posfile: A positive sample file.<br>
+Negfile: A negfile sample file.<br>
+n: Number of the result document.<br>
+random_state: A random number of positive integers.<br>
+
+
+
