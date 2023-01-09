@@ -13,3 +13,9 @@ filenameGB: GenBank file of genome, such as 'sequence.gb'.<br>
 filenameFasta: FASTA file of genome, such as 'sequence.fasta'.<br> 
 numPos: Save the file name suffix of the positive sample, such as 'numPos+posSample.csv'.<br> 
 numNeg: Save the file name suffix of the negative sample, such as 'numNeg+negSample.csv'.<br> 
+### 1.2. [TrainTestPartition.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/TrainTestPartition.py)
+Notes: Dividing the training sets and test sets.<br>
+Data: DEEPReditor-CMG/Positive&NegativeSamples <br>
+```python
+TrainTest(Posfile,Negfile,n,random_state)
+```
