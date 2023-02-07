@@ -6,7 +6,7 @@ DEEPReditor-CMG: A deep learning-based predictive RNA editor for crop mitochondr
 GenomicFiles: Samples genome files and NCBI annotation files.<br>
 Positive&NegativeSamples: Positive and negative sample files of 501bp.<br>
 Train&Test: Randomly divide the training sets and test sets file 5 times.<br>
-![image](https://user-images.githubusercontent.com/73972671/217202245-25d688c7-596c-4020-91c9-79c56f0435fb.png)
+![image](https://user-images.githubusercontent.com/73972671/217203098-82994219-0107-4ff9-8b6e-56d017122914.png)
 
 
 ### 1.1. [ExtractSamples.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/ExtractSamples.py)
