@@ -31,4 +31,5 @@ n: Number of the result document.<br>
 random_state: A random number of positive integers.<br>
 
 ## 2. Model building and hyperparameter optimization
-[GenomicFiles](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/GenomicFiles) 
+[Hyperparametric_Optimization_Search](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/Hyperparametric_Optimization_Search) 
+For details of the process of model building and hyperparameter optimization, please see the article.
