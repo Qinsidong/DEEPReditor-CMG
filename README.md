@@ -37,3 +37,14 @@ For more details please check the article.<br>
 Final CNN model structure.<br>
 [KerasTunerBPN.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/Hyperparametric_Optimization_Search/Final_model_structure/KerasTunerBPN.py)<br>
 Reference model, BP model structure.<br>
+
+
+## 3. Applications
+### 3.1 [DEEPReditor(Python_scripts_version)](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version))
+#### 3.1.1 [PreCustomData.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/PreCustomData.py)
+```python
+start(['Liliopsida','None','None','None'],'8Neg8Pos.csv',threshold=0.75)
+```
+['Liliopsida','None','None','None']: Species Category.<br>
+['8Neg8Pos.csv'](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/SampleUsage/8Neg8Pos.csv): Specify sample (example).<br>
+threshold: Predicted minimum threshold.
