@@ -32,4 +32,4 @@ random_state: A random number of positive integers.<br>
 
 ## 2. Model building and hyperparameter optimization
 [Hyperparametric_Optimization_Search](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/Hyperparametric_Optimization_Search)<br>
-For details of the process of model building and hyperparameter optimization, please see the article.
+For more details please check the article.
