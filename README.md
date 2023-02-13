@@ -59,3 +59,4 @@ startWholeGen("sequence (0).fasta",['Gunneridae','Cucurbitales','Cucurbitaceae',
 ['Gunneridae','Cucurbitales','Cucurbitaceae','Cucurbita']: Species Category.<br>
 threshold: Predicted minimum threshold.<br>
 [match](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/match) & [modle](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/model): Required Folders.
+### 3.2 DEEPReditor(Executable program version)
