@@ -42,6 +42,7 @@ Reference model, BP model structure.<br>
 ## 3. Applications
 ### 3.1 [DEEPReditor(Python_scripts_version)](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version))
 #### 3.1.1 [PreCustomData.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/PreCustomData.py)
+Suitable for prediction of specified base loci in crop mitochondrial genomes.
 ```python
 start(['Liliopsida','None','None','None'],'8Neg8Pos.csv',threshold=0.75)
 ```
@@ -49,6 +50,7 @@ start(['Liliopsida','None','None','None'],'8Neg8Pos.csv',threshold=0.75)
 ['8Neg8Pos.csv'](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/SampleUsage/8Neg8Pos.csv): Specify sample (example).<br>
 threshold: Predicted minimum threshold.
 #### 3.1.2 [PreWholeGen.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/PreWholeGen.py)
+Suitable for C-to-U editing site prediction for whole crop mitochondrial genomes.
 ```python
 startWholeGen("sequence (0).fasta",['Gunneridae','Cucurbitales','Cucurbitaceae','Cucurbita'],threshold=0.9999)
 ```
