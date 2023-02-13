@@ -30,5 +30,5 @@ negfile: A negfile sample file.<br>
 n: Number of the result document.<br>
 random_state: A random number of positive integers.<br>
 
-
-
+## 2. Model building and hyperparameter optimization
+[GenomicFiles](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/GenomicFiles) 
