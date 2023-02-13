@@ -10,7 +10,7 @@ Train&Test: Randomly divide the training sets and test sets file 5 times.<br>
 
 
 ### 1.1. [ExtractSamples.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/ExtractSamples.py)
-Notes: Extraction of positive and negative samples.<br>
+Note: Extraction of positive and negative samples.<br>
 Data: DEEPReditor-CMG/GenomicFiles <br>
 ```python
 ExtractSamples(filenameGB,filenameFasta,numPos,numNeg)
@@ -20,7 +20,7 @@ filenameFasta: FASTA file of genome, such as 'sequence.fasta'.<br>
 numPos: Save the file name suffix of the positive sample, such as 'numPos+posSample.csv'.<br> 
 numNeg: Save the file name suffix of the negative sample, such as 'numNeg+negSample.csv'.<br> 
 ### 1.2. [TrainTestPartition.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/TrainTestPartition.py)
-Notes: Dividing the training sets and test sets.<br>
+Note: Dividing the training sets and test sets.<br>
 Data: DEEPReditor-CMG/Positive&NegativeSamples <br>
 ```python
 TrainTest(posfile,negfile,n,random_state)
@@ -42,7 +42,7 @@ Reference model, BP model structure.<br>
 ## 3. Applications
 ### 3.1 [DEEPReditor(Python_scripts_version)](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version))
 #### 3.1.1 [PreCustomData.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/PreCustomData.py)
-Suitable for prediction of specified base loci in crop mitochondrial genomes.
+Note: Suitable for prediction of specified base loci in crop mitochondrial genomes.
 ```python
 start(['Liliopsida','None','None','None'],'8Neg8Pos.csv',threshold=0.75)
 ```
@@ -50,7 +50,7 @@ start(['Liliopsida','None','None','None'],'8Neg8Pos.csv',threshold=0.75)
 ['8Neg8Pos.csv'](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/SampleUsage/8Neg8Pos.csv): Specify sample (example).<br>
 threshold: Predicted minimum threshold.
 #### 3.1.2 [PreWholeGen.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/PreWholeGen.py)
-Suitable for C-to-U editing site prediction for whole crop mitochondrial genomes.
+Note: Suitable for C-to-U editing site prediction for whole crop mitochondrial genomes.
 ```python
 startWholeGen("sequence (0).fasta",['Gunneridae','Cucurbitales','Cucurbitaceae','Cucurbita'],threshold=0.9999)
 ```
