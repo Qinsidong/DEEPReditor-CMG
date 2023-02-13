@@ -32,4 +32,8 @@ random_state: A random number of positive integers.<br>
 
 ## 2. Model building and hyperparameter optimization
 [Hyperparametric_Optimization_Search](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/Hyperparametric_Optimization_Search)<br>
-For more details please check the article.
+For more details please check the article.<br>
+[DEEPReditor.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/Hyperparametric_Optimization_Search/Final_model_structure/DEEPReditor.py)<br>
+Final CNN model structure.<br>
+[KerasTunerBPN.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/Hyperparametric_Optimization_Search/Final_model_structure/KerasTunerBPN.py)<br>
+Reference model, BP model structure.<br>
