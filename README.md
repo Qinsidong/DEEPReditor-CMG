@@ -43,7 +43,8 @@ Reference model, BP model structure.<br>
 ### 3.1 [DEEPReditor(Python_scripts_version)](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version))
 Note: DEEPReditor(Python_scripts_version). To use, download this version to run locally.
 #### 3.1.1 [PreCustomData.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/PreCustomData.py)
-Note: Suitable for prediction of specified base loci in crop mitochondrial genomes.
+Note: Suitable for prediction of specified base loci in crop mitochondrial genomes.<br>
+[SampleUsage](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/SampleUsage): Sample usage.
 ```python
 start(['Liliopsida','None','None','None'],'8Neg8Pos.csv',threshold=0.75)
 ```
@@ -57,5 +58,5 @@ startWholeGen("sequence (0).fasta",['Gunneridae','Cucurbitales','Cucurbitaceae',
 ```
 ["sequence (0).fasta"](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/SampleUsage/sequence%20(0).fasta): Genome-wide data (example).<br>
 ['Gunneridae','Cucurbitales','Cucurbitaceae','Cucurbita']: Species Category.<br>
-threshold: Predicted minimum threshold.
+threshold: Predicted minimum threshold.<br>
 [match](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/match) & [modle](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/model): Required Folders.
