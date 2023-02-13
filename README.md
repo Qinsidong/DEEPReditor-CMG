@@ -48,3 +48,10 @@ start(['Liliopsida','None','None','None'],'8Neg8Pos.csv',threshold=0.75)
 ['Liliopsida','None','None','None']: Species Category.<br>
 ['8Neg8Pos.csv'](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/SampleUsage/8Neg8Pos.csv): Specify sample (example).<br>
 threshold: Predicted minimum threshold.
+#### 3.1.2 [PreWholeGen.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/PreWholeGen.py)
+```python
+startWholeGen("sequence (0).fasta",['Gunneridae','Cucurbitales','Cucurbitaceae','Cucurbita'],threshold=0.9999)
+```
+["sequence (0).fasta"](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/SampleUsage/sequence%20(0).fasta): Genome-wide data (example).<br>
+['Gunneridae','Cucurbitales','Cucurbitaceae','Cucurbita']: Species Category.<br>
+threshold: Predicted minimum threshold.
