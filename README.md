@@ -36,7 +36,7 @@ For more details please check the article.<br>
 [DEEPReditor.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/Hyperparametric_Optimization_Search/Final_model_structure/DEEPReditor.py)<br>
 Final CNN model structure.<br>
 [KerasTunerBPN.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/Hyperparametric_Optimization_Search/Final_model_structure/KerasTunerBPN.py)<br>
-Reference model, BP model structure.<br>
+Reference model, BPN model structure.<br>
 
 
 ## 3. Applications
