@@ -54,6 +54,7 @@ Class = ['Gunneridae','Liliopsida']<br>
 Order = ['Cucurbitales','Proteales','Brassicales','Asterales','Solanales','Brassicales','Rhoeadales','Poales']<br>
 Family = ['Cucurbitaceae','Nelumbonaceae','Brassicaceae','Asteraceae','Solanaceae','Poaceae']<br>
 Genus = ['Cucurbita','Nelumbo','Citrullus','Arabidopsis','Lactuca','Solanum','Capsella','Raphanus','Brassica','Oryza','Triticum','Zea']<br>
+<br>
 ['8Neg8Pos.csv'](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/SampleUsage/8Neg8Pos.csv): Specify sample (example).<br>
 threshold: Predicted minimum threshold.
 #### 3.1.2 [PreWholeGen.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/PreWholeGen.py)
@@ -68,6 +69,7 @@ Class = ['Gunneridae','Liliopsida']<br>
 Order = ['Cucurbitales','Proteales','Brassicales','Asterales','Solanales','Brassicales','Rhoeadales','Poales']<br>
 Family = ['Cucurbitaceae','Nelumbonaceae','Brassicaceae','Asteraceae','Solanaceae','Poaceae']<br>
 Genus = ['Cucurbita','Nelumbo','Citrullus','Arabidopsis','Lactuca','Solanum','Capsella','Raphanus','Brassica','Oryza','Triticum','Zea']<br>
+<br>
 threshold: Predicted minimum threshold.<br>
 [match](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/match) & [modle](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/model): Required Folders.
 ### 3.2 DEEPReditor(Executable_program_version)
