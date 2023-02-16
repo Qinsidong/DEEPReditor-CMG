@@ -14,7 +14,7 @@ from random import sample
 import re
 
 def DNA_complement2(sequence):  #碱基互补配对
-    trantab = str.maketrans('ACGTNacgt', 'TGCANtgca')     # trantab = str.maketrans(intab, outtab)   # 制作翻译表
+    trantab = str.maketrans('ACGTNacgt', 'TGCANTGCA')     # trantab = str.maketrans(intab, outtab)   # 制作翻译表
     string = sequence.translate(trantab)     # str.translate(trantab)  # 转换字符
     return string
 
