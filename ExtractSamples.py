@@ -99,7 +99,7 @@ def ExtractPosNeg(Cid,Gid,seq,numPos,numNeg):
     for i in range(len(newC)):
         if 250< int(newC[i]) <len(seq)-250 :
             newCid = newCid +[newC[i]]
-    negativeCid = newCid    #随机提取非编辑位点‘’
+    negativeCid = sample(newCid,len(Cid))    #随机提取非编辑位点‘’
 
     allG=[i for i , x in enumerate(seq) if x == 'G' ]  #找到所有的‘G’位点
     trueGNew = [x  for x in Gid] #补齐250
@@ -108,7 +108,7 @@ def ExtractPosNeg(Cid,Gid,seq,numPos,numNeg):
     for i in range(len(newG)):
         if 250< int(newG[i]) <len(seq)-250 :
             newGid = newGid +[newG[i]]
-    negativeGid = newGid     #随机提取非编辑位点‘’
+    negativeGid = sample(newGid,len(Gid))     #随机提取非编辑位点‘’
 
     result2 = open(f'{numNeg}NegSample.csv', 'w', encoding='gbk') #保存负样本
     for i in range(len(negativeCid)):
