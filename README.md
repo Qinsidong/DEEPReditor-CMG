@@ -62,9 +62,9 @@ start(['Liliopsida','None','None','None'],'8Neg8Pos.csv',threshold=0.75)
 ['Liliopsida','None','None','None']: Species Category.<br>
 Range of sequential selection:<br>
 Class = ['Gunneridae','Liliopsida']<br>
-Order = ['Cucurbitales','Proteales','Brassicales','Asterales','Solanales','Brassicales','Rhoeadales','Poales']<br>
-Family = ['Cucurbitaceae','Nelumbonaceae','Brassicaceae','Asteraceae','Solanaceae','Poaceae']<br>
-Genus = ['Cucurbita','Nelumbo','Citrullus','Arabidopsis','Lactuca','Solanum','Capsella','Raphanus','Brassica','Oryza','Triticum','Zea']<br>
+Order = ['Cucurbitales','Proteales','Brassicales','Asterales','Solanales','Brassicales','Rhoeadales','Poales','None']<br>
+Family = ['Cucurbitaceae','Nelumbonaceae','Brassicaceae','Asteraceae','Solanaceae','Poaceae','None']<br>
+Genus = ['Cucurbita','Nelumbo','Citrullus','Arabidopsis','Lactuca','Solanum','Capsella','Raphanus','Brassica','Oryza','Triticum','Zea','None']<br>
 
 ['8Neg8Pos.csv'](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/SampleUsage/8Neg8Pos.csv): Specify sample (example).<br>
 threshold: Predicted minimum threshold.The value range is (0,1), the larger the value the stricter the filtering condition and the higher the confidence of the prediction result.<br>
@@ -77,9 +77,9 @@ startWholeGen("sequence (0).fasta",['Gunneridae','Cucurbitales','Cucurbitaceae',
 ['Gunneridae','Cucurbitales','Cucurbitaceae','Cucurbita']: Species Category.<br>
 Range of sequential selection:<br>
 Class = ['Gunneridae','Liliopsida']<br>
-Order = ['Cucurbitales','Proteales','Brassicales','Asterales','Solanales','Brassicales','Rhoeadales','Poales']<br>
-Family = ['Cucurbitaceae','Nelumbonaceae','Brassicaceae','Asteraceae','Solanaceae','Poaceae']<br>
-Genus = ['Cucurbita','Nelumbo','Citrullus','Arabidopsis','Lactuca','Solanum','Capsella','Raphanus','Brassica','Oryza','Triticum','Zea']<br>
+Order = ['Cucurbitales','Proteales','Brassicales','Asterales','Solanales','Brassicales','Rhoeadales','Poales','None']<br>
+Family = ['Cucurbitaceae','Nelumbonaceae','Brassicaceae','Asteraceae','Solanaceae','Poaceae','None']<br>
+Genus = ['Cucurbita','Nelumbo','Citrullus','Arabidopsis','Lactuca','Solanum','Capsella','Raphanus','Brassica','Oryza','Triticum','Zea','None']<br>
 threshold: Predicted minimum threshold.The value range is (0.5,1), the larger the value the stricter the filtering condition and the higher the confidence of the prediction result.<br>
 [match](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/match) & [modle](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/model): Required Folders.
 ### 3.2 DEEPReditor(Executable_program_version)
