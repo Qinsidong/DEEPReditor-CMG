@@ -29,6 +29,14 @@ posfile: A positive sample file.<br>
 negfile: A negfile sample file.<br>
 n: Number of the result document.<br>
 random_state: A random number of positive integers.<br>
+### 1.3. [SuperSampler.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/SuperSampler.py)
+Note: A data enhancement approach for genomic data.<br>
+```python
+SuperSampler(input,step,output)
+```
+input: Input data.<br>
+step: A positive integer.<br>
+output: Output data.<br>
 
 ## 2. Model building and hyperparameter optimization
 [Hyperparametric_Optimization_Search](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/Hyperparametric_Optimization_Search)<br>
