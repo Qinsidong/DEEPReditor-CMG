@@ -1,5 +1,5 @@
 ## About
-### [DEEPReditor-CMG_v1.0.0](https://github.com/Qinsidong/DEEPReditor-CMG/releases/tag/DEEPReditor-CMG_v1.0.0)(Click to download)<br>
+### [DEEPReditor-CMG_v1.0.0](https://github.com/Qinsidong/DEEPReditor-CMG/releases/tag/DEEPReditor-CMG_v1.0.0) (Click to download)<br>
 This project is based on the `DEEPReditor-CMG` model to build a `visual interface` for user-friendly operation.\
 The project is developed on `windows 10` and runs in `python3` environment, where the main `third-party libraries` used are:
 ```
