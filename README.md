@@ -86,4 +86,4 @@ threshold: Predicted minimum threshold.The value range is (0.5,1), the larger th
 ###  [DEEPReditor-CMG_v1.0.0](https://github.com/Qinsidong/DEEPReditor-CMG/releases/tag/DEEPReditor-CMG_v1.0.0)<br>
 ![image](https://user-images.githubusercontent.com/73972671/225254773-0987d3db-6b8d-4058-93e6-44420841dcf6.png)
 ## 4. Hereby declared！！！
-### 本项目解释权归项目作者所有。
+### 本项目最终解释权归项目作者所有。
