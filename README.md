@@ -55,7 +55,7 @@ Reference model, BPN model structure.<br>
 `Note`: DEEPReditor(Python_scripts_version). To use, download this version to run locally.
 #### 3.1.1 [PreCustomData.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/PreCustomData.py)
 `Note`: Suitable for prediction of specified base loci in crop mitochondrial genomes.<br>
-[SampleUsage](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/SampleUsage): Sample usage.
+[`SampleUsage`](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/SampleUsage): Sample usage.
 ```python
 start(['Liliopsida','None','None','None'],'8Neg8Pos.csv',threshold=0.75)
 ```
@@ -66,22 +66,22 @@ Range of sequential selection:<br>
 `Family` = ['Cucurbitaceae','Nelumbonaceae','Brassicaceae','Asteraceae','Solanaceae','Poaceae','None']<br>
 `Genus` = ['Cucurbita','Nelumbo','Citrullus','Arabidopsis','Lactuca','Solanum','Capsella','Raphanus','Brassica','Oryza','Triticum','Zea','None']<br>
 
-['8Neg8Pos.csv'](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/SampleUsage/8Neg8Pos.csv): Specify sample (example).<br>
+[`'8Neg8Pos.csv'`](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/SampleUsage/8Neg8Pos.csv): Specify sample (example).<br>
 `threshold`: Predicted minimum threshold.The value range is (0,1), the larger the value the stricter the filtering condition and the higher the confidence of the prediction result.<br>
 #### 3.1.2 [PreWholeGen.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/PreWholeGen.py)
 `Note`: Suitable for C-to-U editing site prediction for whole crop mitochondrial genomes.
 ```python
 startWholeGen("sequence (0).fasta",['Gunneridae','Cucurbitales','Cucurbitaceae','Cucurbita'],threshold=0.9999)
 ```
-["sequence (0).fasta"](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/SampleUsage/sequence%20(0).fasta): Genome-wide data (example).<br>
-['Gunneridae','Cucurbitales','Cucurbitaceae','Cucurbita']: Species Category.<br>
+[`"sequence (0).fasta"`](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/SampleUsage/sequence%20(0).fasta): Genome-wide data (example).<br>
+`['Gunneridae','Cucurbitales','Cucurbitaceae','Cucurbita']`: Species Category.<br>
 Range of sequential selection:<br>
 `Class` = ['Gunneridae','Liliopsida']<br>
 `Order` = ['Cucurbitales','Proteales','Brassicales','Asterales','Solanales','Brassicales','Rhoeadales','Poales','None']<br>
 `Family` = ['Cucurbitaceae','Nelumbonaceae','Brassicaceae','Asteraceae','Solanaceae','Poaceae','None']<br>
 `Genus` = ['Cucurbita','Nelumbo','Citrullus','Arabidopsis','Lactuca','Solanum','Capsella','Raphanus','Brassica','Oryza','Triticum','Zea','None']<br><br>
 `threshold`: Predicted minimum threshold.The value range is (0.5,1), the larger the value the stricter the filtering condition and the higher the confidence of the prediction result.<br>
-[match](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/match) & [modle](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/model): Required Folders.
+[`match`](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/match)` & `[`modle`](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/model): Required Folders.
 ### 3.2 DEEPReditor(Executable_program_version)
 ###  [DEEPReditor-CMG_v1.0.0](https://github.com/Qinsidong/DEEPReditor-CMG/releases/tag/DEEPReditor-CMG_v1.0.0)<br>
 #### [Tutorials](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Executable_program_version)/readme.md)
