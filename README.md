@@ -4,7 +4,7 @@
 Details:<br> 
 The article is in the process of being published. Article Link.<br>
 References：<br>
-[1] Qin S, Fan Y, Hu S, et al. iPReditor-CMG: Improving a predictive RNA editor for crop mitochondrial genomes using genomic sequence features and an optimal support vector machine. Phytochemistry. 2022;200:113222. doi:10.1016/j.phytochem.2022.113222. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35561852/)
+[1] Qin S, Fan Y, Hu S, et al. iPReditor-CMG: Improving a predictive RNA editor for crop mitochondrial genomes using genomic sequence features and an optimal support vector machine. Phytochemistry. 2022;200:113222. doi:10.1016/j.phytochem.2022.113222. [[PubMed]](https://pubmed.ncbi.nlm.nih.gov/35561852/)
 ## 1. Samples Extraction
 [GenomicFiles](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/GenomicFiles) $\rightarrow$ [Positive&NegativeSamples](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/Positive&NegativeSamples) $\rightarrow$ [Train&Test](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/Train&Test)<br>
 GenomicFiles: Samples genome files and NCBI annotation files.<br>
