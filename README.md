@@ -85,6 +85,7 @@ Range of sequential selection:<br>
 ### 3.2 DEEPReditor(Executable_program_version)
 ###  [DEEPReditor-CMG_v1.0.0](https://github.com/Qinsidong/DEEPReditor-CMG/releases/tag/DEEPReditor-CMG_v1.0.0) (Click to download)
 ### [Instructions for use.](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Executable_program_version)/readme.md)
+Home page of DEEPReditor-CMG_v1.0.0
 ![image](https://user-images.githubusercontent.com/73972671/225254773-0987d3db-6b8d-4058-93e6-44420841dcf6.png)
 ## 4. Hereby declared！！！
 ### 本项目最终解释权归项目作者所有。
