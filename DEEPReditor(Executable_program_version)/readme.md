@@ -14,8 +14,6 @@ This project requires dependencies to run, which contain relative paths, so plea
 The directory structure is as follows:
 ```
 │─DEEPReditor-CMG_v1.0.0
-    │  8Neg8Pos.csv
-    │  allID_Pre.csv
     │  background.jpg
     │  DEEPReditor-CMG_v1.0.0.exe-----Executable file entry
     │  
@@ -51,7 +49,7 @@ The directory structure is as follows:
 This project can run on any system with python environment, we recommend using `python 3.8.x` version.We use the pyinstaller library to package the project program, users can directly double click `DEEPReditor-CMG_v1.0.0.exe` in the `DEEPReditor-CMG_v1.0.0` directory to run it.
 ## How to use
 The project supports the operation of `fasta format files (including fa format) `and `csv format files` respectively, and the following describes the use of each of the two file formats.
-### The file object is in fasta format
+### Prediction of genome-wide (the file object is in fasta format)
 
 <img src="1.png" alt="1" style="zoom: 50%;" />
 
@@ -67,7 +65,7 @@ After that, click the `Results directory` button to select the folder where the 
 
 <img src="5.png" alt="5" style="zoom:80%;" />
 
-### The file object is in csv format
+### Prediction of user-specific data (the file object is in csv format)
 
 <img src="1.png" alt="1" style="zoom: 50%;" />
 
