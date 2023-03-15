@@ -83,8 +83,8 @@ Range of sequential selection:<br>
 `threshold`: Predicted minimum threshold.The value range is (0.5,1), the larger the value the stricter the filtering condition and the higher the confidence of the prediction result.<br>
 [`match`](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/match)` & `[`modle`](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/model): Required Folders.
 ### 3.2 DEEPReditor(Executable_program_version)
-###  [DEEPReditor-CMG_v1.0.0](https://github.com/Qinsidong/DEEPReditor-CMG/releases/tag/DEEPReditor-CMG_v1.0.0)<br>
-### [`Instructions for use.`](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Executable_program_version)/readme.md)
+###  [DEEPReditor-CMG_v1.0.0](https://github.com/Qinsidong/DEEPReditor-CMG/releases/tag/DEEPReditor-CMG_v1.0.0)
+### [Instructions for use.](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Executable_program_version)/readme.md)
 ![image](https://user-images.githubusercontent.com/73972671/225254773-0987d3db-6b8d-4058-93e6-44420841dcf6.png)
 ## 4. Hereby declared！！！
 ### 本项目最终解释权归项目作者所有。
