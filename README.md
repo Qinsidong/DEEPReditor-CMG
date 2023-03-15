@@ -1,6 +1,6 @@
 # DEEPReditor-CMG
-##DEEPReditor-CMG: A deep learning-based predictive RNA editor for crop mitochondria Genome.<br>
-##基于深度学习的作物线粒体基因组RNA编辑预测。<br><br>
+## DEEPReditor-CMG: A deep learning-based predictive RNA editor for crop mitochondria Genome.<br>
+## 基于深度学习的作物线粒体基因组RNA编辑预测。<br><br>
 Details:<br> 
 The article is in the process of being published. Article Link.<br>
 References：<br>
