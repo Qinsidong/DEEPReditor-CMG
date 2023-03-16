@@ -51,8 +51,8 @@ Reference model, BPN model structure.<br>
 
 
 ## 3. Applications
-### 3.1 [DEEPReditor(Python_scripts_version)](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version))
-`Note`: DEEPReditor(Python_scripts_version). To use, download this version to run locally.
+### 3.1 [DEEPReditor (Python_scripts_version)](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version))
+`Note`: DEEPReditor (Python_scripts_version). To use, download this version to run locally.
 #### 3.1.1 [PreCustomData.py](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Python_scripts_version)/PreCustomData.py)
 `Note`: Suitable for prediction of specified base loci in crop mitochondrial genomes.<br>
 [`SampleUsage`](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/SampleUsage): Sample usage.
@@ -82,7 +82,7 @@ Range of sequential selection:<br>
 `Genus` = ['Cucurbita','Nelumbo','Citrullus','Arabidopsis','Lactuca','Solanum','Capsella','Raphanus','Brassica','Oryza','Triticum','Zea','None']<br><br>
 `threshold`: Predicted minimum threshold.The value range is (0.5,1), the larger the value the stricter the filtering condition and the higher the confidence of the prediction result.<br>
 [`match`](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/match)` & `[`modle`](https://github.com/Qinsidong/DEEPReditor-CMG/tree/main/DEEPReditor(Python_scripts_version)/model): Required Folders.
-### 3.2 DEEPReditor(Executable_program_version)
+### 3.2 DEEPReditor (Executable_program_version)
 ###  [DEEPReditor-CMG_v1.0.0](https://github.com/Qinsidong/DEEPReditor-CMG/releases/tag/DEEPReditor-CMG_v1.0.0) (Click to download)
 ### [Instructions for use.](https://github.com/Qinsidong/DEEPReditor-CMG/blob/main/DEEPReditor(Executable_program_version)/readme.md)
 Home page of DEEPReditor-CMG_v1.0.0
