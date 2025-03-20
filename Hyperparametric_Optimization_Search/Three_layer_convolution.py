@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-# Time :2022.5.17
+# Time :2024.5.17
 # Author :QinSidong
 
 import numpy as np
@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 import os
 
-#划分好的
+
 def inputData(TrainData):
     Train = pd.read_csv(TrainData,header=None)
     X_train, y_train = Train.iloc[:,:-1], Train.iloc[:,-1]
