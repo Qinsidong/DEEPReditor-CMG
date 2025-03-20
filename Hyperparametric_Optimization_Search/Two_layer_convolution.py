@@ -10,7 +10,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 import os
-#划分好的
+
 def inputData(TrainData):
     Train = pd.read_csv(TrainData,header=None)
     X_train, y_train = Train.iloc[:,:-1], Train.iloc[:,-1]
